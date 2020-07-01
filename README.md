@@ -1,35 +1,51 @@
-# Jekyll Serif Theme
+# Jekyll Theme - Mundana by WowThemes.net
 
-Serif is a beautiful small business theme for Jekyll. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-[Live Demo](https://jekyll-serif-theme.netlify.com/) | 
-[Installation](#installation) | 
-[Zerostatic Themes](https://www.zerostatic.io/theme/hugo-hero/)
+![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-![Hugo Serif Theme screenshot](https://github.com/JugglerX/jekyll-serif-theme/blob/master/screenshots/screenshot-with-border.png)
+### Documentation
 
-## Theme features
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-- Services (Collection)
-- Team (Collection)
-- Testimonials (Collection)
-- Features (Data)
-- SCSS
-- Responsive design
-- Bootstrap 4 grid and media queries only
-- Responsive menu
-- 100/100 Google Lighthouse speed score
-- Under 30KB without images or 80KB with images and illustrations ⚡
-- Robust example content included
-- Royalty free illustrations included
+### Contribute to Mundana repository
+
+1. In the top-right corner of this page, click **Fork**.
+
+2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+
+   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+
+3. **Create a branch**: 
+
+   `git checkout -b <my-new-feature-or-fix>`
+
+4. **Make necessary changes and commit those changes**:
+
+   `git add .`
+
+   `git commit -m "new feature or fix"`
+
+5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+
+   `git push origin <add-your-branch-name>`
+
+6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
+
+That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
 
 
-# Installation
+### Copyright
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+Copyright (C) 2019 WowThemes.net.
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
-# License
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-If you fork or copy this theme the LICENSE file and the copyright notice on line 3 (where I am listed as the author) must not be changed. You cannot just replace the copyright line with your own name. Attribution in your README.md or on your site is also welcome but not required.
+### Live Demo
+
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
