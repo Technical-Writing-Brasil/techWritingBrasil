@@ -1,0 +1,49 @@
+---
+title: Tech Scribe
+layout: default
+bodyClass: page-home
+---
+
+<div class="intro pb-4">
+  <div class="container">
+    <h1>A newsletter for writers in tech</h1>
+    <p>Subscribe now to join the writers who are receiving the weekly information that really matters.</p>
+  </div>
+</div>
+
+<div id="subscribe-box" class="container pt-2 pb-6">
+
+  <iframe src="https://techscribe.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; border-radius: 10px; background:white;" frameborder="0" scrolling="no"></iframe>
+
+</div>
+
+<div class="feature-list">
+  <div class="container pt-5 pb-5 pt-md-7 pb-md-7">
+    <div class="row justify-content-center">
+      <!-- <div class="col-12">
+        <h2 class="title-3 text-dark mb-4">Our Features</h2>
+      </div> -->
+      {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></div> {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="social-main container pt-6 pt-md-6">
+
+<div class="social-desktop-parent">
+  {% include social-proof-cards.html %}    
+</div>
+
+<div class="social-mobile-parent">
+  {% include social-proof-mobile.html %}
+</div>
+  
+</div>

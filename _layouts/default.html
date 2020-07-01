@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include google-tag-manager-header.html %}
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  {% if page.url contains '202' %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Tech Scribe">
+    <meta name="twitter:creator" content="@scribe_tech">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.extract }}">
+    <meta name="twitter:image" content="http://www.techscribe.co{{ page.image }}">
+  {% endif %}
+
+  <link rel="icon" href="{{site.baseurl}}/images/favicon.png">
+  <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
+</head>
+<body class='page {{page.bodyClass}}'>
+  {% include google-tag-manager-body.html %}
+  {% include main-menu-mobile.html %}
+  <div id="wrapper" class="wrapper">
+    {% include header.html headerClass='header-extra' %}
+    {{content}}
+  </div>
+  {% include footer.html %}
+  {% include sub-footer.html %}
+  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+  {% include google-analytics.html %}
+  {% include linkedin-insight-tag.html %}
+  {% include facebook-pixel.html %}
+</body>
+</html>
