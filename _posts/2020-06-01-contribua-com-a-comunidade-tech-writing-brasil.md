@@ -2,7 +2,7 @@
 layout: post
 title:  "Contribua com a comunidade Tech Writing Brasil"
 author: brenoBarreto
-categories: [ Carreira ]
+categories: [ Mercado ]
 image: assets/images/contribua-com-a-comunidade-tech-writing-brasil.jpg
 tags: [sticky]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Clareza vs. fricção em Technical Writing"
 author: brenoBarreto
-categories: [ Mercado ]
+categories: [ Boas práticas ]
 image: assets/images/clareza-vs-friccao-em-technical-writing.jpeg
 tags: featured
 ---

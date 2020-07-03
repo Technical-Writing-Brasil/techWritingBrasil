@@ -2,7 +2,7 @@
 layout: post
 title:  "Coloque o tech writer na sala e faça um produto melhor"
 author: brenoBarreto
-categories: [ Carreira ]
+categories: [ Cultura Writer ]
 image: assets/images/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor.jpg
 ---
 

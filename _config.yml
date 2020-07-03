@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
 email: 'techwritingbrasil@gmail.com'
-mailchimp-list: 'e0b6019ef1'
+mailchimp-list: 'https://techwriting.us10.list-manage.com/subscribe/post?u=fb38eb12d33cbde20166321fe&amp;id=e0b6019ef1'
 
 include: ["_pages"]
 permalink: /:title/
