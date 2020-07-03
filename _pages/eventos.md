@@ -42,3 +42,5 @@ Informações:
 <br>
 
 A comunidade Write the Docs é hoje uma das principais referências em conteúdo e eventos sobre tech writing no mundo. Eles realizam conferências e meetups em diversas cidades dos EUA, Europa e Austrália.
+
+[Site do Write the Docs](writethedocs.org)
