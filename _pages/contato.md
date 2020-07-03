@@ -3,7 +3,7 @@ title: "Contato"
 permalink: "/contato.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form target="_blank" action="https://formspree.io/{{site.email}}" method="POST">    
 <p class="mb-4">Você pode falar com a comunidade Tech Writing Brasil pelo e-mail <b>techwritingbrasil@gmail.com</b> ou pelo formulário abaixo.<br>A gente responde assim que possível!</p>
 <div class="form-group row">
 <div class="col-md-6">

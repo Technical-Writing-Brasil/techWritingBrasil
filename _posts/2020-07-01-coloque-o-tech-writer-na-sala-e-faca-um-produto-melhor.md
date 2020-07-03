@@ -4,7 +4,6 @@ title:  "Coloque o tech writer na sala e faça um produto melhor"
 author: brenoBarreto
 categories: [ Carreira ]
 image: assets/images/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor.jpg
-tags: [sticky]
 ---
 
 Desde que eu e Juliana Meyer começamos a gravar episódios para o nosso podcast, **The Manu&lt;script>**, já tivemos a chance de conversar com profissionais de conteúdo incríveis, como [Tom Johnson](https://idratherbewriting.com/aboutme/), [Mark Baker](https://everypageispageone.com/about/) e [Christopher Gales](https://www.splunk.com/en_us/blog/author/cgales.html).
