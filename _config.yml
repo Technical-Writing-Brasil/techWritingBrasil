@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
+name: 'Tech Writing Brasil'
+description: 'Comunidade de tech writers do Brasil'
+logo: '/assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
-email: 'wowthemesnet@gmail.com'
+email: 'techwritingbrasil@gmail.com'
 mailchimp-list: ''
 
 include: ["_pages"]
@@ -19,22 +19,34 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    brenoBarreto:
+      name:           Breno Barreto
+      linkedIn:       https://techscribe.substack.com/welcome
+      avatar:         assets/images/brenoBarreto.jpg
+      bio:            "Lead Technical Writer @ VTEX | Co-host do podcast The Manuscript | Autor da newsleter Tech Scribe"
+      email:          breno.oliveira@gmail.com
+      twitter:        https://twitter.com/scribe_tech
+      medium:         https://medium.com/@breno.barreto
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
+    julianaMeyer:
+      name:           Juliana Meyer
+      linkedIn:       https://www.linkedin.com/in/oijulianameyer
+      avatar:         assets/images/julianaMeyer.jpg
+      bio:            "Technical Writer @ VTEX | Co-host do podcast The Manuscript"
+      email:          
+      twitter:        
+      medium:         https://medium.com/@jumeyermattosarruda
+
+          
+    marianaMoreira:
+      name:           Mariana Moreira
+      linkedIn:       https://www.linkedin.com/in/marianacpmoreira
+      avatar:         assets/images/marianaMoreira.png
+      bio:            "Technical Writer @ Zup Innovation"
+      email:          
+      twitter:        https://twitter.com/mdcpmoreira
+      medium:         https://medium.com/@marianacpmoreira
+
 # Defaults
 defaults:
 

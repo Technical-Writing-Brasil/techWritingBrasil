@@ -1,163 +1,384 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-01T16:46:45-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mundana</title><subtitle>Mundana is a free Jekyll theme for awesome people like you, Medium like.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-04T00:00:00-02:00</published><updated>2019-02-04T00:00:00-02:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-02T22:28:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tech Writing Brasil</title><subtitle>Comunidade de tech writers do Brasil</subtitle><entry><title type="html">Coloque o tech writer na sala e faça um produto melhor</title><link href="http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor/" rel="alternate" type="text/html" title="Coloque o tech writer na sala e faça um produto melhor" /><published>2020-07-01T00:00:00-03:00</published><updated>2020-07-01T00:00:00-03:00</updated><id>http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor</id><content type="html" xml:base="http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor/">&lt;p&gt;Desde que eu e Juliana Meyer começamos a gravar episódios para o nosso podcast, &lt;strong&gt;The Manu&amp;lt;script&amp;gt;&lt;/strong&gt;, já tivemos a chance de conversar com profissionais de conteúdo incríveis, como &lt;a href=&quot;https://idratherbewriting.com/aboutme/&quot;&gt;Tom Johnson&lt;/a&gt;, &lt;a href=&quot;https://everypageispageone.com/about/&quot;&gt;Mark Baker&lt;/a&gt; e &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot;&gt;Christopher Gales&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;É claro que cada um deles tem pensamentos diferentes sobre muitos aspectos do trabalho de escrita técnica, mas uma reflexão em particular apareceu em cada uma dessas conversas (talvez, confesso, por conta do meu próprio interesse no tema). Ela pode ser resumida assim:&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Considerar o desenvolvimento do produto por uma lente que coloca o conteúdo no início do processo não melhora apenas a documentação; melhora o próprio produto.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Então, vamos falar um pouco sobre isso. Pense em um time de produto reunido em uma sala para discutir as primeiras etapas de um projeto que acabarão por levar ao desenvolvimento de um novo produto ou feature. Quem são as pessoas dentro da sala? Você provavelmente vê um gerente de produto; talvez o CEO, se o produto é realmente importante ou a empresa é uma pequena startup; designers; desenvolvedores; um engenheiro de suporte? Talvez alguém do controle de qualidade? Se você tiver muita sorte, talvez até um ux writer.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/demo1.jpg" /></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/powerful-things-markdown-editor/" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2019-02-03T00:00:00-02:00</published><updated>2019-02-03T00:00:00-02:00</updated><id>http://localhost:4000/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/powerful-things-markdown-editor/">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;p&gt;Você sabe aonde estou indo com isso: a pessoa que você provavelmente não verá na sala é a technical writer. E isso não é porque ninguém gosta dela, mas porque a documentação geralmente não é vista como parte de um produto digital em si. Na maioria das vezes, ela é vista como um apêndice. E quando você desenha uma linha do tempo do projeto no quadro branco e pergunta às pessoas onde o apêndice entra, a resposta óbvia será “no final”, depois que tudo que for essencial e importante tiver sido descoberto, desenvolvido, melhorado e lançado.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;E o curioso é que muitas vezes o que é realmente um apêndice acaba sendo incluído no início, simplesmente porque é fácil pensar sobre ele. &lt;a href=&quot;https://en.wikipedia.org/wiki/Law_of_triviality&quot;&gt;O bicicletário antes do projeto da usina nuclear&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;O que acontece quando o technical writer é finalmente chamado, talvez você já tenha vivido na pele: uma série de tropeços desnecessários. Afinal, o produto ou feature está supostamente pronto, então agora o time precisa decidir se:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
+  &lt;li&gt;Ele será lançado sem documentação - “dá pra fazer depois”).&lt;/li&gt;
+  &lt;li&gt;Eles vão segurar o lançamento enquanto o tech writer se apressa para criar um arremedo de documentação (uma maneira ineficiente de trabalhar, que provavelmente levará a uma documentação superficial e que, a propósito, mostra pouco respeito pelo trabalho do redator).&lt;/li&gt;
+  &lt;li&gt;Simplesmente não haverá documentação - “problema do usuário”.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;Para além disso, me diz o seguinte: se não estava trabalhando na documentação do produto, o que aquele tech writer preguiçoso estava fazendo enquanto a equipe do produto trabalhava duro para desenvolver a coisa toda? Bem, ele estava tentando cobrir as inconsistências nos produtos e features anteriores da empresa, que também foram desenvolvidos sem um trabalho síncrono de documentação. Porque - justamente por terem sido desenvolvidos assim - eles nasceram com uma série de defeitos.&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;Agora você pode estar pensando que garantir o bom uso é o trabalho dos designers - e eles estavam na sala durante a primeira reunião. Minha resposta é que você está subestimando o impacto do trabalho do technical writer no desenvolvimento do produto. Os designers são definitivamente essenciais, mas estão tão próximos do produto que dificilmente conseguem assumir a posição do usuário. Os engenheiros de controle de qualidade também são essenciais, mas eles estão lá para garantir que o resultado esperado aconteça. Eles também não deveriam assumir o lugar do usuário.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;O technical writer, por outro lado, está em posição de assumir o lugar do usuário. De fato, o tech writer geralmente é o primeiro de todos os usuários. Ele tem o privilégio de olhar para o produto com a ignorância e a curiosidade que levam às perguntas necessárias para gerar conhecimento correspondente ao modelo mental do usuário. Porque ele não é o estrategista, nem o construtor, nem o testador. Ele é o aprendiz. Enquanto os desenvolvedores e designers criam, o tech writer usa, aprende, se frustra, pergunta, usa mais um pouco… Tudo isso para ser a pessoa que, de tanto pensar sobre o produto (novamente, do ponto de vista do usuário), torna-se capaz de virar o professor que passará esse conhecimento adquirido adiante.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;“Technical writer” ou “documentarian” talvez sejam nomes enganosos quando se trata de avaliar o impacto real dessa posição, quando bem utilizada. Coloque o tech writer na sala e você terá um ótimo aliado para criar um produto que seus usuários de fato conseguirão usar.&lt;/p&gt;</content><author><name>brenoBarreto</name></author><category term="sticky" /><summary type="html">Desde que eu e Juliana Meyer começamos a gravar episódios para o nosso podcast, The Manu&amp;lt;script&amp;gt;, já tivemos a chance de conversar com profissionais de conteúdo incríveis, como Tom Johnson, Mark Baker e Christopher Gales.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor.jpg" /></entry><entry><title type="html">O que é redação técnica e um pouco do que aprendi nesses meses</title><link href="http://localhost:4000/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses/" rel="alternate" type="text/html" title="O que é redação técnica e um pouco do que aprendi nesses meses" /><published>2020-06-25T00:00:00-03:00</published><updated>2020-06-25T00:00:00-03:00</updated><id>http://localhost:4000/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses</id><content type="html" xml:base="http://localhost:4000/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses/">&lt;p&gt;&lt;em&gt;Como tem sido minha experiência como technical writer e meus aprendizados escrevendo documentações técnicas de soluções open source&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt;Desde que me tornei technical writer, ou redatora técnica, tenho tido a oportunidade de desbravar um mundo completamente fora da minha realidade como jornalista: o da tecnologia.&lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;E aqui, quando me refiro à tecnologia, quero dizer todo o ecossistema envolvido nela, desde o ciclo de vida de um software, os bastidores do desenvolvimento de uma solução e, principalmente, o desafio de criar uma &lt;strong&gt;documentação intuitiva&lt;/strong&gt;, que oriente futuros usuários a utilizar aquele produto e entender seus atributos e features técnicos.&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;Por isso, decidi compartilhar um pouco da minha trajetória até aqui como forma de, quem sabe, incentivar potenciais comunicadores a se desbravarem nesse mundo - além, é claro, de fortalecer essa comunidade ainda em crescimento no Brasil.&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt;Antes de tudo, quero deixar claro que a redação técnica não se restringe à área da tecnologia. Isso significa que existem technical writers, por exemplo, na Medicina e em áreas que exijam conteúdos com estilo técnico mais aprofundado. Mas, para este artigo, &lt;strong&gt;vou focar todos os meus exemplos na área tech&lt;/strong&gt; por ser nela que atuo.&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses-1.jpeg&quot; alt=&quot;img1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>jane</name></author><category term="summer" /><summary type="html">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" /></entry><entry><title type="html">The first mass-produced book to deviate from a rectilinear format</title><link href="http://localhost:4000/first-mass-produced/" rel="alternate" type="text/html" title="The first mass-produced book to deviate from a rectilinear format" /><published>2019-02-02T00:00:00-02:00</published><updated>2019-02-02T00:00:00-02:00</updated><id>http://localhost:4000/first-mass-produced</id><content type="html" xml:base="http://localhost:4000/first-mass-produced/">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+&lt;p&gt;Mas afinal, o que é technical writing?&lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/17.jpg" /></entry><entry><title type="html">Education must also train one for quick, resolute and effective thinking.</title><link href="http://localhost:4000/education/" rel="alternate" type="text/html" title="Education must also train one for quick, resolute and effective thinking." /><published>2019-02-01T00:00:00-02:00</published><updated>2019-02-01T00:00:00-02:00</updated><id>http://localhost:4000/education</id><content type="html" xml:base="http://localhost:4000/education/">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;De acordo com a &lt;a href=&quot;https://www.stc.org/about-stc/defining-technical-communication/&quot;&gt;Society for Technical Communication&lt;/a&gt;, o Technical Writing é um campo, dentro da comunicação técnica, que possui pelo menos uma das seguintes características:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
+  &lt;li&gt;Usar a comunicação para abordar assuntos técnicos e especializados, como aplicações (ou apps) e softwares, entre outras ferramentas que possam ser instaladas, adicionadas ou configuradas;&lt;/li&gt;
+  &lt;li&gt;Utilizar de meios tecnológicos, como sites, repositórios, arquivos ou redes sociais para comunicar sobre o produto;&lt;/li&gt;
+  &lt;li&gt;Prover instruções sobre como realizar algo, independentemente do quão técnica seja a ação ou de qual tecnologia seja necessária para realizar a tarefa.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">There are lots of powerful things you can do with the Markdown editor</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /></entry><entry><title type="html">Accumulated experience of social living</title><link href="http://localhost:4000/acumulated-experience/" rel="alternate" type="text/html" title="Accumulated experience of social living" /><published>2019-01-30T00:00:00-02:00</published><updated>2019-01-30T00:00:00-02:00</updated><id>http://localhost:4000/acumulated-experience</id><content type="html" xml:base="http://localhost:4000/acumulated-experience/">&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
 &lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>sal</name></author><summary type="html">The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/15.jpg" /></entry><entry><title type="html">About Bundler</title><link href="http://localhost:4000/about-bundler/" rel="alternate" type="text/html" title="About Bundler" /><published>2019-01-29T00:00:00-02:00</published><updated>2019-01-29T00:00:00-02:00</updated><id>http://localhost:4000/about-bundler</id><content type="html" xml:base="http://localhost:4000/about-bundler/">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">gem install bundler installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /></entry><entry><title type="html">We all wait for summer</title><link href="http://localhost:4000/we-all-wait-for-summer/" rel="alternate" type="text/html" title="We all wait for summer" /><published>2019-01-28T00:00:00-02:00</published><updated>2019-01-28T00:00:00-02:00</updated><id>http://localhost:4000/we-all-wait-for-summer</id><content type="html" xml:base="http://localhost:4000/we-all-wait-for-summer/">&lt;p&gt;This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that &lt;a href=&quot;#&quot;&gt;education should equip&lt;/a&gt; them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;</content><author><name>jane</name></author><category term="featured" /><summary type="html">This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /></entry><entry><title type="html">Tree of Codes</title><link href="http://localhost:4000/tree-of-codes/" rel="alternate" type="text/html" title="Tree of Codes" /><published>2019-01-27T00:00:00-02:00</published><updated>2019-01-27T00:00:00-02:00</updated><id>http://localhost:4000/tree-of-codes</id><content type="html" xml:base="http://localhost:4000/tree-of-codes/">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+  &lt;p&gt;Em outras palavras, a redação técnica é quando escrevemos de forma clara e intuitiva sobre instruções ou orientações para que o(a) leitor(a) possa entender mais facilmente como usar uma solução/software/produto.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;h2 id=&quot;as-entregáveis-do-technical-writer&quot;&gt;As entregáveis do technical writer&lt;/h2&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /></entry><entry><title type="html">Red Riding Hood</title><link href="http://localhost:4000/red-riding/" rel="alternate" type="text/html" title="Red Riding Hood" /><published>2019-01-26T00:00:00-02:00</published><updated>2019-01-26T00:00:00-02:00</updated><id>http://localhost:4000/red-riding</id><content type="html" xml:base="http://localhost:4000/red-riding/">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+&lt;p&gt;Considerando que nosso principal objetivo é tornar mais fácil o uso de alguma solução e/ou produto, os principais materiais que um redator técnico produz são:&lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Documentações técnicas de softwares, incluindo documentações de API;&lt;/li&gt;
+  &lt;li&gt;Manuais de instrução;&lt;/li&gt;
+  &lt;li&gt;Guias de uso.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /></entry><entry><title type="html">Press and education</title><link href="http://localhost:4000/press-and-education/" rel="alternate" type="text/html" title="Press and education" /><published>2019-01-25T00:00:00-02:00</published><updated>2019-01-25T00:00:00-02:00</updated><id>http://localhost:4000/press-and-education</id><content type="html" xml:base="http://localhost:4000/press-and-education/">&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
+&lt;p&gt;Arrisco dizer que o principal deles é a documentação.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
+  &lt;p&gt;No universo de technical writing, ela (a doc) é &lt;strong&gt;o elo entre quem usa e quem produz um software ou sistema&lt;/strong&gt;. A “interface” que pode potencializar a experiência em usar aquela solução.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+&lt;p&gt;E, por isso, é fundamental que a documentação (ou doc, como costumamos chamar) seja bem escrita, com exemplos de uso e explicações conceituais e técnicas para facilitar o entendimento de como usar o produto.&lt;/p&gt;
 
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses-2.png&quot; alt=&quot;img2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/7.jpg" /></entry></feed>
+&lt;h2 id=&quot;como-me-tornei-redatora-técnica&quot;&gt;Como me tornei redatora técnica?&lt;/h2&gt;
+
+&lt;p&gt;Assim como boa parte dos redatores técnicos que conheço, eu entrei na área por acaso.&lt;/p&gt;
+
+&lt;p&gt;No início deste ano, quando a pandemia estava nem perto de ser realidade, eu recebi uma proposta da &lt;a href=&quot;https://www.linkedin.com/company/zup-it-solutions/&quot;&gt;Zup Innovation&lt;/a&gt;. Na época, tudo indicava que eu teria uma atuação bem parecida com a que vinha fazendo, no caso, a de UX Writer ou Redatora UX.&lt;/p&gt;
+
+&lt;p&gt;O que sabia, até então, é que eu precisaria ser bastante organizada e ter experiência prévia em documentar processos.&lt;/p&gt;
+
+&lt;p&gt;Porém, quando eu comecei a trabalhar, já nos primeiros dias entendi que estava lidando com algo totalmente novo. O desafio era - e continua sendo - &lt;strong&gt;escrever as documentações das soluções open source&lt;/strong&gt; que a Zup vem lançando na comunidade de desenvolvedores.&lt;/p&gt;
+
+&lt;p&gt;Isso significa que eu precisei entender a fundo sobre termos e expressões de programação, além de conhecer, tecnicamente, como o produto funcionava para que eu pudesse explicá-lo na documentação. Aliás, tive que entender sobre três produtos que envolvem três áreas distintas - ainda que correlatas - dentro de tecnologia.&lt;/p&gt;
+
+&lt;p&gt;Para completar, as equipes dos produtos para os quais eu escrevo ficam em Uberlândia (MG), enquanto eu moro em São Paulo (SP). E aí vocês devem imaginar como o desafio aumentou, certo?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses-3.gif&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inclusive, se vocês quiserem, eu posso escrever outro artigo só contando estes bastidores. Mas o que posso adiantar aqui é que foram meses de bastante aprendizado enquanto - literalmente - ia escrevendo cada linha dessas docs. 😉&lt;/p&gt;
+
+&lt;h2 id=&quot;alguns-dos-aprendizados-que-tive-até-agora&quot;&gt;Alguns dos aprendizados que tive (até agora)&lt;/h2&gt;
+
+&lt;p&gt;Como disse, essa trajetória tem me feito colher muitos frutos e aprender sobre processos de trabalho e assuntos da área de tecnologia que nem sonhava em me envolver.&lt;/p&gt;
+
+&lt;p&gt;Abaixo, listo o que já aprendi e que pode ajudar caso você, um dia, decida trabalhar com redação técnica:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Pense como um desenvolvedor&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Se você, como eu, estiver trabalhando em uma empresa de tecnologia, é bem provável que seu público-alvo seja formado por desenvolvedores, arquitetos ou engenheiros de software.&lt;/p&gt;
+
+&lt;p&gt;Logo, é interessante que você mergulhe no universo desses profissionais para entender como eles consomem informações técnicas e quais seus formatos favoritos de conteúdo.&lt;/p&gt;
+
+&lt;p&gt;Isso significa pesquisar e aprender sobre temas comuns à área, como APIs, Git, Github, Gitlab, infraestrutura, tipos de ambientes, linguagens de programação e linhas de comando, entre outros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses-4.gif&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem vários cursos online da Udemy que tratam destes temas. Eu, por exemplo, comecei a fazer recentemente um chamado Git and Github for Writers. Mas você pode encontrar outros que lhe interessem e façam mais sentido para seu atual momento. 🙂&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Escreva perto de quem desenvolve o produto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Não existe uma boa documentação, seja ela escrita ou codificada, sem um trabalho multidisciplinar por trás.&lt;/p&gt;
+
+&lt;p&gt;Por mais que você, enquanto redator técnico, compreenda o universo do produto, faz toda diferença quando você traz desenvolvedores, analistas de QA e demais envolvidos no desenvolvimento do software/solução para contribuir.&lt;/p&gt;
+
+&lt;p&gt;Desta forma, a documentação se enriquece com estudos de caso, exemplos de códigos e demais informações técnicas que irão agregar na experiência de leitura do arquivo.&lt;/p&gt;
+
+&lt;p&gt;No começo, ainda mais se a empresa não tiver uma equipe de tech writers, é normal que os times de produto se mostrem um pouco resistentes. Mas use as skills de comunicação em seu favor e garanto que o resultado será melhor do que você espera. 😉&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses-5.gif&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. English first&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Talvez este seja meio óbvio, mas não custa reforçar: todo o universo de tecnologia, inclusive de softwares e soluções, compartilha conteúdos dando preferência ao inglês.&lt;/p&gt;
+
+&lt;p&gt;Caso você trabalhe, queira trabalhar ou vá começar em uma empresa que pretende ampliar o alcance de seu produto, então minha recomendação é que você invista no inglês para ganhar segurança em tradução e na escrita da documentação, principalmente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Concilie usabilidade e conhecimento técnico&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Este foi um de meus maiores desafios. Como não sou desenvolvedora, minha vivência sempre me coloca em uma posição de questionar o quão intuitivo e claro está o conteúdo. Ao mesmo tempo, não posso deixar de tratar tecnicamente do assunto.&lt;/p&gt;
+
+&lt;p&gt;No dia a dia, é como uma balança em que precisamos avaliar o tempo todo como está esse equilíbrio. Por um lado, não podemos ser didáticos demais a ponto de esquecer do técnico. Por outro, também não podemos ser técnicos demais. O segredo, então, é ser claro naquilo que se está dizendo.&lt;/p&gt;
+
+&lt;p&gt;Não existe fórmula mágica: é necessário sempre validar, revisar e testar a documentação com sua audiência.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses-6.gif&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. A doc é um documento vivo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mesmo que você finalize o processo de documentação, ele nunca irá acabar. Isso porque vira e mexe surge uma nova atualização no software e você precisa divulgá-la por meio das chamadas release notes.&lt;/p&gt;
+
+&lt;p&gt;No caso de soluções open source, então, é sempre importante que o redator técnico acompanhe as contribuições que a solução vai receber via repositório, além das necessárias revisões ou inclusões de features à medida que o produto estiver evoluindo.&lt;/p&gt;
+
+&lt;h2 id=&quot;onde-encontro-mais-informações&quot;&gt;Onde encontro mais informações?&lt;/h2&gt;
+
+&lt;p&gt;Como falei no início deste artigo, a área de technical writing no Brasil ainda está crescendo e existem muitas oportunidades para profissionais interessados em fazer carreira nela.&lt;/p&gt;
+
+&lt;p&gt;Se quiser saber mais, vou deixar abaixo recomendações de livros e também links para dois grupos (um brasileiro e outro estrangeiro) que vai colocar você em contato com outras pessoas que já trabalham como tech writers.&lt;/p&gt;
+
+&lt;h3 id=&quot;livros&quot;&gt;Livros&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html&quot;&gt;The Product is Docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1365816079&quot;&gt;Docs Like Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://everypageispageone.com/the-book/&quot;&gt;Every page is page One&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0131477498&quot;&gt;Developing Quality Technical Information&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://%20https//usablelearning.com/the-book/&quot;&gt;Design for How People Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;grupos&quot;&gt;Grupos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/groups/8908217/&quot;&gt;Technical Writing Brasil&lt;/a&gt;, no Linkedin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/writethedocs/shared_invite/zt-eu3l2qba-0eRHx9cY1SLS~wSrn~y4hA&quot;&gt;Write The Docs&lt;/a&gt;, no Slack.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;extra-poscast&quot;&gt;Extra: Poscast&lt;/h3&gt;
+
+&lt;p&gt;Eu não podia deixar de divulgar o &lt;strong&gt;The Manu&amp;lt;script&amp;gt;&lt;/strong&gt;, podcast criado pelos technical writers &lt;a href=&quot;https://www.linkedin.com/in/breno-barreto/&quot;&gt;Breno Barreto&lt;/a&gt; e &lt;a href=&quot;https://www.linkedin.com/in/oijulianameyer/&quot;&gt;Juliana Meyer&lt;/a&gt;, ambos da VTEX.&lt;/p&gt;
+
+&lt;p&gt;Ele está disponível nos principais tocadores e cada episódio é uma verdadeira aula sobre os desafios da área e percepções do mercado - inclusive, com a participação especial de alguns dos autores dos livros que listei acima.&lt;/p&gt;
+
+&lt;p&gt;Espero que vocês tenham entendido um pouco desse universo complexo e apaixonante do Technical Writing. Pretendo escrever mais artigos em breve, então, se quiserem, podem ficar à vontade para enviar sugestões de temas relacionados. Será um prazer falar sobre eles. 😊&lt;/p&gt;</content><author><name>marianaMoreira</name></author><category term="featured" /><summary type="html">Como tem sido minha experiência como technical writer e meus aprendizados escrevendo documentações técnicas de soluções open source</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/technical-writing-o-que-e-redacao-tecnica-e-um-pouco-do-que-aprendi-nesses-meses.jpg" /></entry><entry><title type="html">Clareza vs. fricção em Technical Writing</title><link href="http://localhost:4000/clareza-vs-friccao-em-technical-writing/" rel="alternate" type="text/html" title="Clareza vs. fricção em Technical Writing" /><published>2020-06-18T00:00:00-03:00</published><updated>2020-06-18T00:00:00-03:00</updated><id>http://localhost:4000/clareza-vs-friccao-em-technical-writing</id><content type="html" xml:base="http://localhost:4000/clareza-vs-friccao-em-technical-writing/">&lt;p&gt;Acredito que toda pessoa que trabalha como technical writer deveria ler algo sobre design instrucional em algum momento. Não é que você precise se tornar um designer instrucional: o que mais me interessa nessa interseção é entender as técnicas usadas para o ensino de adultos. Afinal, no fim das contas, é isso que estamos fazendo: ensinando adultos.&lt;/p&gt;
+
+&lt;p&gt;Nos meus primeiros meses como tech writer, me debrucei sobre livros e artigos que tentavam recomendar maneiras de projetar, implementar e avaliar experiências de aprendizado, na esperança de encontrar boas práticas que me ajudassem no meu trabalho. E posso dizer que foi uma busca que mudou o modo como enxergo a relação entre conteúdo e usuário.&lt;/p&gt;
+
+&lt;p&gt;Um dos livros que li nessa época - &lt;a href=&quot;https://www.amazon.com/Design-People-Learn-Voices-Matter/dp/0321768434&quot;&gt;Design for how people learn&lt;/a&gt; - me fez colocar em contraste dois dos esforços diários de um tech writer: primeiro, o de ser omais claro, conciso e direto possível; segundo, o esforço de fugir ao tédio e criar atrito suficiente para tornar a experiência de aprendizado mais interativa e tirar o aluno de sua posição passiva, estimulando a carga cognitiva.&lt;/p&gt;
+
+&lt;p&gt;Algumas das maneiras pelas quais esse atrito pode ser criado, de acordo com o autor do livro, são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Conte histórias.&lt;/li&gt;
+  &lt;li&gt;Surpreenda o aluno.&lt;/li&gt;
+  &lt;li&gt;Crie interação socialMostre ao aluno “coisas que brilham”.&lt;/li&gt;
+  &lt;li&gt;Faça o aluno explicar o assunto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mas como fazemos qualquer uma dessas coisas sem perder a clareza ou pelo menos a objetividade que exige o conteúdo técnico? É possível contar histórias na documentação? É possível esperar que o aluno se envolva na experiência de aprendizado com uma abordagem mais ativa?&lt;/p&gt;
+
+&lt;p&gt;Eu acredito que sim, mas apenas até certo ponto.&lt;/p&gt;
+
+&lt;p&gt;Quando estamos lidando com uma sala de aula ou um livro, a lista de estratégias que podem ser aplicadas se alimenta de uma variedade de técnicas que levam em consideração o funcionamento do cérebro. Essas estratégias instruirão você a virar as abordagens de ensino convencionais de cabeça para baixo, e algumas são tão contraintuitivas que muitas vezes sou tentado a experimentá-las, ao menos por diversão.&lt;/p&gt;
+
+&lt;p&gt;O redator técnico, no entanto, tem um espaço de manobra mais limitado que o da sala de aula. E talvez uma das principais razões para isso seja que quase sempre lidamos com um “aluno” que não tem tempo a perder.&lt;/p&gt;
+
+&lt;p&gt;Nossos leitores provavelmente têm quase sempre um assunto urgente em mãos e desejam uma resposta direta que simplesmente resolva seu problema, o que dificulta o foco em memória de longo prazo, carga cognitiva e outras coisas sofisticadas. O que o leitor espera são palavras da forma e quantidade exatas para fazê-lo executar uma ação.&lt;/p&gt;
+
+&lt;p&gt;Isso não significa que não temos espaço para tentar levar nossos usuários a uma experiência de aprendizado mais rica. Mas deveríamos sempre considerar o efeito esperado. Se você estiver trabalhando na solução de problemas de conteúdo, busque clareza e evite experiências.&lt;/p&gt;
+
+&lt;p&gt;Mas se estiver criando um guia introdutório, ou quem sabe um curso, talvez encontre maneiras de inserir uma história, uma experiência prática surpreendente ou até mesmo um pouco de humor. É aí que surge espaço para ser criativo, gerar fricção e, quem sabe, trazer mais potência à experiência de aprendizagem do usuário.‍&lt;/p&gt;</content><author><name>brenoBarreto</name></author><category term="featured" /><summary type="html">Acredito que toda pessoa que trabalha como technical writer deveria ler algo sobre design instrucional em algum momento. Não é que você precise se tornar um designer instrucional: o que mais me interessa nessa interseção é entender as técnicas usadas para o ensino de adultos. Afinal, no fim das contas, é isso que estamos fazendo: ensinando adultos.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/clareza-vs-friccao-em-technical-writing.jpeg" /></entry><entry><title type="html">O desafio de justificar esforços de documentação</title><link href="http://localhost:4000/o-desafio-de-justificar-esforcos-de-documentacao/" rel="alternate" type="text/html" title="O desafio de justificar esforços de documentação " /><published>2020-06-13T00:00:00-03:00</published><updated>2020-06-13T00:00:00-03:00</updated><id>http://localhost:4000/o-desafio-de-justificar-esforcos-de-documentacao</id><content type="html" xml:base="http://localhost:4000/o-desafio-de-justificar-esforcos-de-documentacao/">&lt;p&gt;Não, nem sempre é fácil convencer sua empresa ou mesmo seu time sobre a importância da documentação, e esse pode ser um dos desafios mais complicados para uma equipe de technical writing recém-criada.&lt;/p&gt;
+
+&lt;p&gt;Em um ambiente orientado a resultados como o de quase toda empresa moderna, uma coisa é crucial… isso mesmo: o resultado. Nem um problema, a não ser quando você tenta pular as partes difíceis para chegar mais rápido até lá. E manter um processo de documentação saudável é certamente uma dessas partes difíceis.&lt;/p&gt;
+
+&lt;p&gt;Por isso, geralmente escolhemos ignorar sua importância ou pelo menos diminuí-la, como se a documentação fosse um acessório com o qual podemos lidar mais tarde.&lt;/p&gt;
+
+&lt;p&gt;Uma das razões é que esse ambiente orientado a resultados valoriza benefícios mensuráveis, ​e medir o efeito de uma documentação de qualidade pode se tornar um trabalho árduo e demorado.&lt;/p&gt;
+
+&lt;p&gt;Quão felizes seus clientes ficaram depois que seu time alterou os títulos de gerúndio para infinitivo? Qual foi a redução no número de tickets abertos para o time de suporte depois que você mudou a cor da borda do botão de pesquisa? Difícil de dizer.&lt;/p&gt;
+
+&lt;p&gt;No entanto, são esses e muitos outros detalhes que, juntos, transformam um conhecimento bruto, disperso e represado na ferramenta capaz de trazer escala à sua empresa.&lt;/p&gt;
+
+&lt;p&gt;E o momento de prestar atenção a esses detalhes é agora, quando esse conhecimento ainda é administrável.&lt;/p&gt;
+
+&lt;p&gt;Os efeitos não serão vistos amanhã ou no fim da próxima sprint. E talvez quando eles aparecerem, a influência da documentação não seja tão clara quanto você gostaria.&lt;/p&gt;
+
+&lt;p&gt;Portanto, pode ser difícil justificar um esforço equivalente ao empreendido pela equipe de desenvolvimento para lidar com a documentação. E, para os mais ansiosos, pode ser doloroso esperar aguardar enquanto trabalha dia após dia com vírgulas, listas, screenshots e categorias.&lt;/p&gt;
+
+&lt;p&gt;Mas um produto que cresce sem um processo de documentação bem-estruturado é como um edifício construído sobre pilares de bambu. No começo, pode parecer viável, mas se o produto for longe o suficiente, a estrutura inteira fica comprometida.&lt;/p&gt;</content><author><name>brenoBarreto</name></author><summary type="html">Não, nem sempre é fácil convencer sua empresa ou mesmo seu time sobre a importância da documentação, e esse pode ser um dos desafios mais complicados para uma equipe de technical writing recém-criada.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/o-desafio-de-justificar-esforcos-de-documentacao.jpg" /></entry><entry><title type="html">UX Writing e Technical Writing: semelhanças e diferenças</title><link href="http://localhost:4000/ux-writing-e-technical-writing-semelhancas-e-diferencas/" rel="alternate" type="text/html" title="UX Writing e Technical Writing: semelhanças e diferenças" /><published>2020-06-10T00:00:00-03:00</published><updated>2020-06-10T00:00:00-03:00</updated><id>http://localhost:4000/ux-writing-e-technical-writing-semelhancas-e-diferencas</id><content type="html" xml:base="http://localhost:4000/ux-writing-e-technical-writing-semelhancas-e-diferencas/">&lt;p&gt;Na semana passada, comentei em um &lt;a href=&quot;https://www.linkedin.com/posts/marianacpmoreira_uxwriting-technicalwriting-ux-activity-6682259996064940032-XHyP&quot;&gt;post no Linkedin&lt;/a&gt; que tenho percebido que ainda é comum profissionais da área não saberem diferenciar UX Writing de Technical Writing, mesmo aqueles que atuam há um tempo com conteúdo focado para produtos digitais.&lt;/p&gt;
+
+&lt;p&gt;Afinal, por que UX Writing não é a mesma coisa que Technical Writing ou vice-versa?&lt;/p&gt;
+
+&lt;p&gt;Pensei então se este não poderia ser o tema deste artigo. Pelo menos, serve para nós como um exercício para entender melhor nossas atuações e, quem sabe, até podemos formar times com estes dois tipos de profissionais.&lt;/p&gt;
+
+&lt;p&gt;Antes de começarmos, quero deixar claro que me considero aprendiz das duas áreas. Logo, sinta-se à vontade para comentar suas percepções, combinado? 😉&lt;/p&gt;
+
+&lt;h2 id=&quot;os-dois-tipos-de-writing&quot;&gt;Os dois tipos de writing&lt;/h2&gt;
+
+&lt;p&gt;Vamos começar pelo mais básico, que seria entender melhor os conceitos de cada uma dessas áreas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ux-writing-e-technical-writing-semelhancas-e-diferencas-1.jpg&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ux-writing&quot;&gt;UX Writing&lt;/h3&gt;
+
+&lt;p&gt;O &lt;strong&gt;UX Writing&lt;/strong&gt;, ou Redação focada em UX (User Experience), é a área dentro do Design e de Estratégia de Conteúdo (Content Strategy) que tem por objetivo produzir textos que promovam a melhor experiência do usuário.&lt;/p&gt;
+
+&lt;p&gt;O principal conceito que sustenta o UX Writing é o do &lt;a href=&quot;https://medium.com/ux-squad/microcopy-comunicando-ideias-atrav%C3%A9s-da-tela-8841d0117fea&quot;&gt;microcopy, ou microtexto&lt;/a&gt;, que diz respeito a todo texto escrito para uma interface digital.&lt;/p&gt;
+
+&lt;p&gt;Em outras palavras, significa que todo texto que serve de ponto de contato de um usuário com a sua marca (produto ou serviço) deve passar por um UX Writer. Isso vale para aplicativos, landing pages, sites, chatbots, entre outros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ux-writing-e-technical-writing-semelhancas-e-diferencas-2.jpg&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;technical-writing&quot;&gt;Technical Writing&lt;/h3&gt;
+
+&lt;p&gt;O &lt;strong&gt;Technical Writing&lt;/strong&gt;, ou Redação Técnica em tradução livre, foca na produção de conteúdo técnico com o objetivo de orientar você a utilizar um produto.&lt;/p&gt;
+
+&lt;p&gt;Isso significa que manuais, documentações, guias de instrução, APIs e demais materiais de orientação, geralmente, passam pelas mãos de um Technical Writer, ou Tech Writer.&lt;/p&gt;
+
+&lt;p&gt;Eu, inclusive, já falei um pouco do &lt;a href=&quot;https://www.linkedin.com/pulse/o-papel-da-documenta%C3%A7%C3%A3o-desenvolvimento-de-softwares-mariana-moreira&quot;&gt;papel da documentação no desenvolvimento de softwares&lt;/a&gt;. Fica a sugestão se quiser se aprofundar mais no assunto 😉&lt;/p&gt;
+
+&lt;h2 id=&quot;onde-as-áreas-se-encontram&quot;&gt;Onde as áreas se encontram&lt;/h2&gt;
+
+&lt;p&gt;Como vimos, o UX Writing e o Technical Writing são duas vertentes dentro de conteúdo que possuem diferentes entregáveis e que, portanto, vão exigir diferentes competências dependendo da área que você escolher atuar.&lt;/p&gt;
+
+&lt;p&gt;Mas sabe por que, apesar disso, é natural que haja confusão entre as áreas?&lt;/p&gt;
+
+&lt;p&gt;Porque as duas se preocupam com a &lt;strong&gt;experiência&lt;/strong&gt; proporcionada pelo material produzido. Seja uma documentação ou um aplicativo, os objetivos do UX Writer e do Tech Writer se encontram se pensarmos que:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ntuitivo&lt;/li&gt;
+  &lt;li&gt;Compreensível&lt;/li&gt;
+  &lt;li&gt;Útil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;São características que os dois profissionais buscam aplicar no trabalho.&lt;/p&gt;
+
+&lt;p&gt;Vou te confessar que, pela minha vivência, tenho enxergado que as duas são áreas cada vez mais complementares.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Isso significa que, no fim do dia, tanto o UX Writer quanto o Tech Writer buscam atingir o mesmo objetivo, só que por caminhos diferentes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ux-writing-e-technical-writing-semelhancas-e-diferencas-3.gif&quot; alt=&quot;img3&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diferenciando-melhor-ux-writing-e-technical-writing&quot;&gt;Diferenciando melhor UX Writing e Technical Writing&lt;/h2&gt;
+
+&lt;p&gt;Vamos ilustrar o tema com um exemplo prático? Assim, fica mais fácil separar o joio do trigo e o UX do Technical Writing (ou vice-versa).&lt;/p&gt;
+
+&lt;p&gt;Pense aí em um aplicativo de algum serviço. Pode ser de qualquer coisa… que tal um app de pagamentos?&lt;/p&gt;
+
+&lt;p&gt;Se você baixar um app de pagamentos, qualquer que seja, com certeza você vai ver diversos textos que te orientam a realizar uma ação, como por exemplo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Criar seu cadastro&lt;/li&gt;
+  &lt;li&gt;Adicionar seus amigos&lt;/li&gt;
+  &lt;li&gt;Configurar seu perfil&lt;/li&gt;
+  &lt;li&gt;Realizar um pagamento&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para que estas ações fossem escritas, um UX Writer esteve presente para pensar nas possibilidades de fluxo que você pode fazer para realizar qualquer uma dessas atividades para que você nem precise pensar tanto para fazê-las.&lt;/p&gt;
+
+&lt;p&gt;Lembra do intuitivo? É este o sentimento que qualquer ação dessas deve te provocar. Se fez isso, voilà: um trabalho de UX Writing bem executado.&lt;/p&gt;
+
+&lt;p&gt;E onde entra o Technical Writer?&lt;/p&gt;
+
+&lt;p&gt;Bom, para que este aplicativo chegasse à loja para você fazer o download, existiram alguns passos anteriores. Um deles foi documentar todo o processo de criação do app e, principalmente, sobre os atributos técnicos de cada funcionalidade do aplicativo, como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exemplos de código&lt;/li&gt;
+  &lt;li&gt;APIs&lt;/li&gt;
+  &lt;li&gt;Plugins&lt;/li&gt;
+  &lt;li&gt;Linguagens de programação e/ou frameworks utilizados&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em outras palavras, o Technical Writer entra no momento em que o aplicativo está sendo desenvolvido para registrar todas as features, configurações, APIs e demais insumos técnicos.&lt;/p&gt;
+
+&lt;p&gt;Caso uma pessoa entre para o time que desenvolve do produto, saberá exatamente como aquele produto funciona, agilizando sua curva de aprendizado.&lt;/p&gt;
+
+&lt;p&gt;Se esta pessoa entrar e conseguir entender facilmente como aquele aplicativo opera, tecnicamente falando, você tem aí um bom trabalho de Technical Writing.&lt;/p&gt;
+
+&lt;h2 id=&quot;onde-vejo-mais-sobre-ux-writing-e-technical-writing&quot;&gt;Onde vejo mais sobre UX Writing e Technical Writing?&lt;/h2&gt;
+
+&lt;p&gt;Gostou muito das duas áreas e quer acompanhar de perto os debates sobre o assunto? Eu separei algumas sugestões de materiais, perfis e livros para os dois. :)&lt;/p&gt;
+
+&lt;h3 id=&quot;ux-writing-1&quot;&gt;UX Writing&lt;/h3&gt;
+
+&lt;h4 id=&quot;perfis-do-linkedin&quot;&gt;Perfis do LinkedIn&lt;/h4&gt;
+
+&lt;p&gt;A comunidade de UX Writers já está bastante ativa e existem diversos profissionais ativos no LinkedIn. Fica aqui algumas sugestões para seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/arianadias/&quot;&gt;Ariana Dias&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/perfilbrunorodrigues/&quot;&gt;Bruno Rodrigues&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/camilaemartins/&quot;&gt;Camila Martins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/caroline-linhares-097589150/&quot;&gt;Caroline Linhares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/cristinaluckner/&quot;&gt;Cristina Luckner&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/caroline-linhares-097589150/&quot;&gt;Mariana Lorente&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/ludmilarocha/&quot;&gt;Ludmila Rocha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;livros&quot;&gt;Livros&lt;/h4&gt;
+
+&lt;p&gt;Aqui, vou listar algumas das indicações da Suzane Ribeiro no &lt;a href=&quot;https://medium.com/uxcopy-co/quero-ser-ux-writer-1fdcebb377b&quot;&gt;artigo Quero ser UX Writer&lt;/a&gt;!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microcopybook.com/&quot;&gt;Microcopy — The Complete Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com.br/Reda%C3%A7%C3%A3o-Estrat%C3%A9gica-Para-Engajamento-Convers%C3%A3o/dp/8575228129/ref=sr_1_1&quot;&gt;Redação Estratégica para UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Microcopy-Discover-Tiny-Tasty-Websites-ebook/dp/B071S54VLL&quot;&gt;Microcopy: Discover How Tiny Bits of Text Make Tasty Apps and Websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://abookapart.com/products/conversational-design&quot;&gt;Conversational Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Content-Everywhere-Strategy-Structure-Future-Ready/dp/193382087X&quot;&gt;Content Everywhere: Strategy and Structure For Future-Ready Content&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;grupo&quot;&gt;Grupo&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://uxwriting.com.br/&quot;&gt;UX Writing Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O site, como a própria descrição diz, é a “casa da comunidade brasileira de UX Writers”. Logo, você encontra lá grupos para acompanhar, pessoas para seguir, cursos, entre outros.&lt;/p&gt;
+
+&lt;h3 id=&quot;technical-writing-1&quot;&gt;Technical Writing&lt;/h3&gt;
+
+&lt;p&gt;Por fim, um compilado da área que me abraçou nos últimos meses. Vou colocar mais uma vez a listinha que tem sido “minha lição de casa nestes tempos”&lt;/p&gt;
+
+&lt;h4 id=&quot;perfis-do-linkedin-1&quot;&gt;Perfis do LinkedIn&lt;/h4&gt;
+
+&lt;p&gt;A nossa comunidade de Tech Writers ainda está se movimentando, mas alguns nomes que têm se mobilizado e que podem ser interessantes de seguir são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/breno-barreto/&quot;&gt;Breno Barreto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/oijulianameyer/&quot;&gt;Juliana Meyer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/andr%C3%A9-sato-19705557/&quot;&gt;André Sato&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;livros-1&quot;&gt;Livros&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html&quot;&gt;The Product is Docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1365816079&quot;&gt;Docs Like Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://everypageispageone.com/the-book/&quot;&gt;Every page is page One&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0131477498&quot;&gt;Developing Quality Technical Information&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Design-People-Learn-Voices-Matter/dp/0321768434&quot;&gt;Design for How People Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;grupos&quot;&gt;Grupos&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/groups/8908217/&quot;&gt;Technical Writing Brasil&lt;/a&gt;, no Linkedin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/writethedocs/shared_invite/zt-eu3l2qba-0eRHx9cY1SLS~wSrn~y4hA&quot;&gt;Write The Docs&lt;/a&gt;, no Slack.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;E agora, ficou mais fácil diferenciar um UX Writer e um Technical Writer? Não deixa de comentar suas impressões, será ótimo para continuar a discussão. 😊&lt;/p&gt;</content><author><name>marianaMoreira</name></author><summary type="html">Na semana passada, comentei em um post no Linkedin que tenho percebido que ainda é comum profissionais da área não saberem diferenciar UX Writing de Technical Writing, mesmo aqueles que atuam há um tempo com conteúdo focado para produtos digitais.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ux-writing-e-technical-writing-semelhancas-e-diferencas.jpg" /></entry></feed>

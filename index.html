@@ -1,9 +1,9 @@
 ---
-title: "Mundana Free Jekyll Theme"
+title: "Tech Writing Brasil"
 layout: default
 pagination:
     enabled: true
-description: "A great Jekyll theme developed by Sal @wowthemesnet."
+description: "Comunidade de technical writers brasileiros."
 ---
 
 
@@ -144,9 +144,9 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 <p class="mb-3 lead">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Leia Mais</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{post.image}});">	
             </div>
         </div>
     </div>
@@ -168,7 +168,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Todos os Posts</span></h4>
         
 
         {% for post in paginator.posts %}

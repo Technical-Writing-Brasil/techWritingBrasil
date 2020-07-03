@@ -14,13 +14,16 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
     <!-- Google Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
 
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
 
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css">
 
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script
@@ -38,11 +41,11 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>{{site.name}}</strong></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><img class="header-logo" src="{{site.logo}}"></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+        <div class="navbar-collapse collapse" id="navbarColor02">
             <ul class="navbar-nav mr-auto d-flex align-items-center">
                {% include menu-header.html %}
             </ul>
@@ -77,15 +80,11 @@
         <div class="container">
         <div class="row align-items-center justify-content-between">
             <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>Mundana</strong></span>
+                <span class="navbar-brand mr-2 mb-0 footer-logo"><img src="{{site.logo}}"></span>
                 <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
-
-                <!--  Github Repo Star Btn-->
-                <a class="text-dark ml-1" target="_blank" href="https://github.com/wowthemesnet/mundana-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
-
-            </div>
+            </div>               
             <div>
-                Made with <a target="_blank" class="text-dark font-weight-bold" href="https://www.wowthemes.net/mundana-jekyll-theme/"> Mundana Jekyll Theme </a> by <a class="text-dark" target="_blank" href="https://www.wowthemes.net">WowThemes</a>.
+                Feito com ❤ pela <a class="text-dark font-weight-bold" href="{{site.baseurl}}/authors-list.html">Comunidade Tech Writing Brasil</a>.
             </div>
         </div>
         </div>

@@ -1,0 +1,48 @@
+.header-logo{
+    width: 70px;
+}
+
+.footer-logo{
+    width: 50px;
+}
+
+.sobre-row{
+    width: 20%;
+}
+
+.bookSuggestion{
+    max-width: 100px;
+    max-height: 200px;
+    box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+}
+
+.blogSuggestion{
+    max-width: 350px;
+    max-height: 300px;
+    box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+}
+
+.podcastSuggestion{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.eventSuggestion{
+    max-width: 500px;
+    max-height: 400px;
+    box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+}
+
+.footerLink{
+    padding-right: 10px;
+}
+
+.level-selector{
+    margin-right: 25px;
+}
+
+@media(max-width: 700px){
+    .bookSuggestion, .blogSuggestion, .podcastSuggestion, .eventSuggestion{
+        width: 100%;
+    }
+}
