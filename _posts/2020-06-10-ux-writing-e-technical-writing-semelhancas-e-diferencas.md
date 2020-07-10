@@ -4,7 +4,6 @@ title:  "UX Writing e Technical Writing: semelhanças e diferenças"
 author: marianaMoreira
 categories: [ Mercado ]
 image: assets/images/ux-writing-e-technical-writing-semelhancas-e-diferencas.jpg
-extract: "???"
 ---
 
 Na semana passada, comentei em um [post no Linkedin](https://www.linkedin.com/posts/marianacpmoreira_uxwriting-technicalwriting-ux-activity-6682259996064940032-XHyP) que tenho percebido que ainda é comum profissionais da área não saberem diferenciar UX Writing de Technical Writing, mesmo aqueles que atuam há um tempo com conteúdo focado para produtos digitais.
