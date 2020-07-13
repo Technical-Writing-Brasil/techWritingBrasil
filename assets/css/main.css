@@ -40,7 +40,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: 'Karla', "Helvetica Neue", "Arial";
+  --font-family-sans-serif: 'Titillium Web', "Helvetica Neue", "Arial";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
@@ -64,7 +64,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: 'Karla', "Helvetica Neue", "Arial";
+  font-family: 'Titillium Web', "Helvetica Neue", "Arial";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.6;
