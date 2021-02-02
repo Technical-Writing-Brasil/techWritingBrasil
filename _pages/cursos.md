@@ -7,6 +7,27 @@ Cursos online e presenciais com conteúdo relevante para technical writers inici
 
 <br>
 
+# Technical Writing I
+
+<br>
+
+<img class="eventSuggestion" src="/assets/images/curso-tw1.png">
+
+<br>
+
+Informações:
+- **Formato**: online
+- **Plataforma**: Fenestra
+- **Idioma**: Português
+- **Instrutor**: Breno Barreto
+
+<br>
+
+<a target="_blank" href="https://fenestra.com.br/cursos/technical-writing-i/" class="btn btn-warning">Vá para o curso</a>
+
+
+<br>
+
 # Git and Github for Writers
 
 <br>
