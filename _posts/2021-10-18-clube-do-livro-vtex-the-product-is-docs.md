@@ -19,7 +19,6 @@ Começamos o clube do livro em fevereiro de 2021 com a leitura do [The Product i
 
 
 ![VTEX Education team - Clube do livro](/assets/images/book-club-notion.png)
-
 _Página no Notion onde organizamos os assuntos do Clube do Livro._
 
 
