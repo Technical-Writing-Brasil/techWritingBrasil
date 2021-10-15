@@ -18,7 +18,7 @@ _“Quanto mais livros você ler, mais coisas saberá. Quanto mais aprender, mai
 Começamos o clube do livro em fevereiro de 2021 com a leitura do [The Product is Docs](https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html), escrito por [Christopher Gales](https://www.splunk.com/en_us/blog/author/cgales.html) e pelo time de documentação do Splunk. Esse é um livro tradicional sobre Technical Writing, referenciado em várias palestras sobre o tema, como por exemplo os Meetups da comunidade de Technical Writing BR.
 
 
-![alt_text](/assets/images/book-club-notion.jpg "Página no Notion")
+![VTEX Education team - Clube do livro](/assets/images/book-club-notion.png)
 
 _Página no Notion onde organizamos os assuntos do Clube do Livro._
 
@@ -69,7 +69,7 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 * Colaborando com Gestão de Produto _(Working with Product Management)_
 
 
-![alt_text](assets/images/book-club-miro.png "Quadro no Miro")
+![VTEX Education team - Quadro no Miro](/assets/images/book-club-miro.png)
 
 _Quadro no Miro onde fizemos o planejamento e divisão de temas para a criação dos posts._
 
