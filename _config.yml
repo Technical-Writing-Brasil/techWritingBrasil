@@ -46,6 +46,15 @@ authors:
       email:          
       twitter:        https://twitter.com/mdcpmoreira
       medium:         https://medium.com/@marianacpmoreira
+      
+    VTEXteam:
+      name:           VTEX team
+      linkedIn:       https://www.linkedin.com/company/vtex
+      avatar:         assets/images/vtex-icon.jpeg
+      bio:            "Technical Writers @ VTEX"
+      email:          
+      twitter:        
+      medium:         
 
 # Defaults
 defaults:
