@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-05T08:43:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tech Writing Brasil</title><subtitle>Comunidade de tech writers do Brasil</subtitle><entry><title type="html">Coloque o tech writer na sala e faça um produto melhor</title><link href="http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor/" rel="alternate" type="text/html" title="Coloque o tech writer na sala e faça um produto melhor" /><published>2020-07-01T00:00:00-03:00</published><updated>2020-07-01T00:00:00-03:00</updated><id>http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor</id><content type="html" xml:base="http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor/">&lt;p&gt;Desde que eu e Juliana Meyer começamos a gravar episódios para o nosso podcast, &lt;strong&gt;The Manu&amp;lt;script&amp;gt;&lt;/strong&gt;, já tivemos a chance de conversar com profissionais de conteúdo incríveis, como &lt;a href=&quot;https://idratherbewriting.com/aboutme/&quot;&gt;Tom Johnson&lt;/a&gt;, &lt;a href=&quot;https://everypageispageone.com/about/&quot;&gt;Mark Baker&lt;/a&gt; e &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot;&gt;Christopher Gales&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-15T20:42:31-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tech Writing Brasil</title><subtitle>Comunidade de tech writers do Brasil</subtitle><entry><title type="html">Clube do Livro VTEX: The Product is Docs</title><link href="http://localhost:4000/clube-do-livro-vtex-the-product-is-docs/" rel="alternate" type="text/html" title="Clube do Livro VTEX: The Product is Docs" /><published>2021-10-15T00:00:00-03:00</published><updated>2021-10-15T00:00:00-03:00</updated><id>http://localhost:4000/clube-do-livro-vtex-the-product-is-docs</id><content type="html" xml:base="http://localhost:4000/clube-do-livro-vtex-the-product-is-docs/">&lt;p&gt;Somos cinco mulheres - &lt;a href=&quot;https://www.linkedin.com/in/carolinamnz/&quot;&gt;Carolina Menezes&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/juliarabello/&quot;&gt;Júlia Rabello&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/oijulianameyer/&quot;&gt;Juliana Meyer&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/karen-krieger-derraik/&quot;&gt;Karen Krieger&lt;/a&gt; e &lt;a href=&quot;https://www.linkedin.com/in/marianacaetanop/&quot;&gt;Mariana Caetano&lt;/a&gt; - technical writers do time de Education da VTEX. Nossa equipe é responsável por criar e manter toda a documentação pública da empresa, por meio dos nossos portais &lt;a href=&quot;https://help.vtex.com/&quot;&gt;Help Center&lt;/a&gt; e &lt;a href=&quot;developers.vtex.com&quot;&gt;Developer Portal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A partir do nosso interesse em leitura, organizamos um clube do livro para analisar as principais referências de Technical Writing no mundo e pensar em como elas refletem nossa realidade. Como a maior parte do conteúdo do universo de Technical Writing é estrangeiro e nós somos um time formado por brasileiros, nos questionamos: será que a visão dessas pessoas se aplica ao nosso contexto?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-more-that-you-read-the-more-things-you-will-know-the-more-that-you-learn-the-more-places-youll-go---dr-seuss&quot;&gt;&lt;em&gt;“The more that you read, the more things you will know. The more that you learn, the more places you’ll go.” - Dr. Seuss&lt;/em&gt;&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;“Quanto mais livros você ler, mais coisas saberá. Quanto mais aprender, mais lugares conhecerá.” - Dr. Seuss&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Começamos o clube do livro em fevereiro de 2021 com a leitura do &lt;a href=&quot;https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html&quot;&gt;The Product is Docs&lt;/a&gt;, escrito por &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot;&gt;Christopher Gales&lt;/a&gt; e pelo time de documentação do Splunk. Esse é um livro tradicional sobre Technical Writing, referenciado em várias palestras sobre o tema, como por exemplo os Meetups da comunidade de Technical Writing BR.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/book-club-notion.png&quot; alt=&quot;VTEX Education team - Clube do livro&quot; /&gt;
+&lt;em&gt;Página no Notion onde organizamos os assuntos do Clube do Livro.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;por-dentro-dos-encontros&quot;&gt;Por dentro dos encontros&lt;/h2&gt;
+
+&lt;p&gt;Conseguimos integrar o aprendizado sobre a área de Technical Writing à nossa rotina com encontros semanais de 30 minutos, toda terça-feira, às 11h da manhã. Outros membros do nosso time também participaram das discussões do livro - &lt;a href=&quot;https://www.linkedin.com/in/isabellaveloso/&quot;&gt;Isabella Veloso Sá&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/georgebrindeiro/&quot;&gt;George Brindeiro &lt;/a&gt;e &lt;a href=&quot;https://www.linkedin.com/in/gustavo-figueredo-912720127/&quot;&gt;Gustavo Figueredo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Durante 4 meses, cada participante se organizou para incorporar a leitura ao seu dia a dia.  Júlia, Mariana e Karen liam os capítulos da vez durante o final de semana, com uma boa xícara de chá. Juliana e Carolina preferiam ler durante o café da manhã, na segunda e na terça. Ficou fácil incorporar o aprendizado técnico ao cotidiano.&lt;/p&gt;
+
+&lt;p&gt;Cada discussão envolvia os seguintes pontos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Opinião sobre o  capítulo.&lt;/li&gt;
+  &lt;li&gt;Dúvidas que surgiram durante a leitura.&lt;/li&gt;
+  &lt;li&gt;Discussão sobre semelhanças e diferenças em comparação com a nossa realidade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Às vezes, um único capítulo despertava tanto nossa curiosidade que passávamos todo o encontro só discutindo o seu conteúdo. Outros capítulos eram, eventualmente, mais distantes da nossa realidade, então debatíamos dois ou mais  capítulos em um mesmo encontro. De qualquer forma, às terças-feiras, começávamos o dia desafiadas mentalmente, refletindo sobre como poderíamos aprimorar nosso trabalho.&lt;/p&gt;
+
+&lt;h2 id=&quot;difundindo-o-conteúdo-no-brasil&quot;&gt;Difundindo o conteúdo no Brasil&lt;/h2&gt;
+
+&lt;p&gt;Para contribuir com o desenvolvimento de mais tech writers brasileiros, decidimos compartilhar nossos principais aprendizados com a comunidade brasileira de Technical Writing. Entendemos que o idioma é uma barreira e que isso afasta vários leitores brasileiros pela sua dificuldade. Pensando nisso, resolvemos criar posts sobre temas discutidos em &lt;em&gt;The Product is Docs&lt;/em&gt; e citar capítulos que nos interessaram.&lt;/p&gt;
+
+&lt;p&gt;Por isso, vamos publicar resumos sobre algumas temáticas do livro no blog da comunidade Technical Writing BR, incluindo traduções livres de alguns trechos. Não cobriremos o livro todo, pois decidimos selecionar os capítulos com que mais nos identificamos ao longo da leitura.&lt;/p&gt;
+
+&lt;p&gt;Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts escritos por nós, da seguinte forma:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Escrita &lt;em&gt;(Writing)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Decisões de documentação &lt;em&gt;(Documentation Decisions)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Edição técnica &lt;em&gt;(Technical Editing)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Autoria colaborativa &lt;em&gt;(Collaborative Authoring)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Aprender (&lt;em&gt;Learning&lt;/em&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Objetivos de aprendizado &lt;em&gt;(Learning Objectives)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Processos e ferramentas &lt;em&gt;(Processes and tools)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mantendo conteúdo existente &lt;em&gt;(Maintaining Existing Content)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Pesquisa para technical writers &lt;em&gt;(Research for technical writers)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Colaborando com outros times &lt;em&gt;(Working with other teams)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Colaborando com UX e Design &lt;em&gt;(Working with User Experience and Design)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Colaborando com engenheiros &lt;em&gt;(Working with Engineers)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Colaborando com Marketing &lt;em&gt;(Working with Marketing)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Colaborando com Gestão de Produto &lt;em&gt;(Working with Product Management)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/book-club-miro.png&quot; alt=&quot;VTEX Education team - Quadro no Miro&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Quadro no Miro onde fizemos o planejamento e divisão de temas para a criação dos posts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;saiba-mais&quot;&gt;Saiba mais&lt;/h2&gt;
+
+&lt;p&gt;Por mais que esse seja o primeiro conjunto de conteúdos escritos em português sobre &lt;em&gt;The Product is Docs&lt;/em&gt;, existem outros recursos em inglês já disponíveis. Se o idioma não for uma barreira para você, sugerimos as seguintes referências:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Entrevista com Christopher Gales no podcast &lt;a href=&quot;https://themanuscript.co/&quot;&gt;The Manu&amp;lt;script&amp;gt;&lt;/a&gt; (criado e produzido por Juliana ☺️), sobre o dia a dia da área no Splunk e a construção do livro. &lt;a href=&quot;https://open.spotify.com/episode/7cjKyKjtBR9lqLE2ujbBi1&quot;&gt;Escute no Spotify&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.splunk.com/en_us/blog&quot;&gt;Splunk Blogs&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>VTEXteam</name></author><summary type="html">Somos cinco mulheres - Carolina Menezes, Júlia Rabello, Juliana Meyer, Karen Krieger e Mariana Caetano - technical writers do time de Education da VTEX. Nossa equipe é responsável por criar e manter toda a documentação pública da empresa, por meio dos nossos portais Help Center e Developer Portal.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/book-club.jpeg" /></entry><entry><title type="html">Coloque o tech writer na sala e faça um produto melhor</title><link href="http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor/" rel="alternate" type="text/html" title="Coloque o tech writer na sala e faça um produto melhor" /><published>2020-07-01T00:00:00-03:00</published><updated>2020-07-01T00:00:00-03:00</updated><id>http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor</id><content type="html" xml:base="http://localhost:4000/coloque-o-tech-writer-na-sala-e-faca-um-produto-melhor/">&lt;p&gt;Desde que eu e Juliana Meyer começamos a gravar episódios para o nosso podcast, &lt;strong&gt;The Manu&amp;lt;script&amp;gt;&lt;/strong&gt;, já tivemos a chance de conversar com profissionais de conteúdo incríveis, como &lt;a href=&quot;https://idratherbewriting.com/aboutme/&quot;&gt;Tom Johnson&lt;/a&gt;, &lt;a href=&quot;https://everypageispageone.com/about/&quot;&gt;Mark Baker&lt;/a&gt; e &lt;a href=&quot;https://www.splunk.com/en_us/blog/author/cgales.html&quot;&gt;Christopher Gales&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;É claro que cada um deles tem pensamentos diferentes sobre muitos aspectos do trabalho de escrita técnica, mas uma reflexão em particular apareceu em cada uma dessas conversas (talvez, confesso, por conta do meu próprio interesse no tema). Ela pode ser resumida assim:&lt;/p&gt;
 

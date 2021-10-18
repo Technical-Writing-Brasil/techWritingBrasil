@@ -3,10 +3,10 @@ layout: post
 title:  "Clube do Livro VTEX: The Product is Docs"
 author: VTEXteam
 categories: [ Cultura Writer ]
-image: assets/images/book-club.jpg
+image: assets/images/book-club.jpeg
 ---
 
-Somos cinco mulheres - [Carolina Menezes](https://www.linkedin.com/in/carolinamnz/), [Júlia Rabello](https://www.linkedin.com/in/juliarabello/), [Juliana Meyer](https://www.linkedin.com/in/oijulianameyer/), [Karen Krieger](https://www.linkedin.com/in/karen-krieger-derraik/) e [Mariana Caetano](https://www.linkedin.com/in/marianacaetanop/) - technical writers do time de Education da VTEX. Nossa equipe é responsável por criar e manter toda a documentação pública da empresa, por meio dos portais [Help VTEX](https://help.vtex.com/) e [Developer Portal](developers.vtex.com). 
+Somos cinco mulheres - [Carolina Menezes](https://www.linkedin.com/in/carolinamnz/), [Júlia Rabello](https://www.linkedin.com/in/juliarabello/), [Juliana Meyer](https://www.linkedin.com/in/oijulianameyer/), [Karen Krieger](https://www.linkedin.com/in/karen-krieger-derraik/) e [Mariana Caetano](https://www.linkedin.com/in/marianacaetanop/) - technical writers do time de Education da VTEX. Nossa equipe é responsável por criar e manter toda a documentação pública da empresa, por meio dos nossos portais [Help Center](https://help.vtex.com/) e [Developer Portal](developers.vtex.com). 
 
 A partir do nosso interesse em leitura, organizamos um clube do livro para analisar as principais referências de Technical Writing no mundo e pensar em como elas refletem nossa realidade. Como a maior parte do conteúdo do universo de Technical Writing é estrangeiro e nós somos um time formado por brasileiros, nos questionamos: será que a visão dessas pessoas se aplica ao nosso contexto?
 
@@ -77,6 +77,6 @@ _Quadro no Miro onde fizemos o planejamento e divisão de temas para a criação
 
 Por mais que esse seja o primeiro conjunto de conteúdos escritos em português sobre _The Product is Docs_, existem outros recursos em inglês já disponíveis. Se o idioma não for uma barreira para você, sugerimos as seguintes referências:
 
-* Entrevista com Christopher Gales no podcast [The Manu<script>](https://themanuscript.co/) (criado e produzido por Juliana ☺️), sobre o dia a dia da área no Splunk e a construção do livro. [Escute no Spotify](https://open.spotify.com/episode/7cjKyKjtBR9lqLE2ujbBi1). 
+* Entrevista com Christopher Gales no podcast [The Manu&lt;script&gt;](https://themanuscript.co/) (criado e produzido por Juliana ☺️), sobre o dia a dia da área no Splunk e a construção do livro. [Escute no Spotify](https://open.spotify.com/episode/7cjKyKjtBR9lqLE2ujbBi1). 
 * [Splunk Blogs](https://www.splunk.com/en_us/blog).
 
