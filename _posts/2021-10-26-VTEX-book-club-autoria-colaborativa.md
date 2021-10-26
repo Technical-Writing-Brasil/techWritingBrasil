@@ -54,8 +54,8 @@ Os aspectos positivos desse modelo são encorajar o público interno a se engaja
 
 
 
-> Para monitorar alterações e garantir a qualidade de artigos visíveis para clientes, o time de technical writers usa [leitores RSS](https://rockcontent.com/br/blog/o-que-e-feed-rss/).
-
+<div class="callout-vtex"> Para monitorar alterações e garantir a qualidade de artigos visíveis para clientes, o time de technical writers usa <a href="https://rockcontent.com/br/blog/o-que-e-feed-rss/" > leitores RSS</a>.
+</div>
 
 
 Por outro lado, esse formato facilita a inclusão de informações incorretas ou redundantes, e textos confusos ou fora de contexto. Além disso, o modelo de wiki pode gerar um trabalho extra para o time de documentação, que precisa inserir na rotina a atividade de monitorar as contribuições realizadas pelos demais funcionários da empresa.
