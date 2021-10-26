@@ -672,6 +672,15 @@ article blockquote {
 	font-style:italic;
 	position:relative;
 }
+article .callout-vtex {
+    padding: 10px 10px 1px 20px;
+    margin-left: 2px;
+    font-style: regular;
+    position: relative;
+    border-left: solid 3px steelblue;
+    background-color: aliceblue;
+    font-size: 16px;    
+}
 article blockquote:before {
 	content:"“";
 	font-family:Georgia;
