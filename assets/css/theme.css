@@ -673,13 +673,14 @@ article blockquote {
 	position:relative;
 }
 article .callout-vtex {
-    padding: 10px 10px 1px 20px;
+    padding: 10px 10px 7px 20px;
     margin-left: 2px;
     font-style: regular;
     position: relative;
     border-left: solid 3px steelblue;
     background-color: aliceblue;
-    font-size: 16px;    
+    font-size: 16px;
+	margin: 10px 10px 30px 20px;    
 }
 article blockquote:before {
 	content:"“";
