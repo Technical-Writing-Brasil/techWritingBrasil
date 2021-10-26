@@ -70,7 +70,7 @@ Em geral, para decidir entre um modelo mais colaborativo ou mais restrito, é im
 Traduzimos livremente alguns trechos do livro que mais chamaram nossa atenção:
 
 
-<table>
+<table class="table-vtex">
   <tr>
    <td>Citação
    </td>
