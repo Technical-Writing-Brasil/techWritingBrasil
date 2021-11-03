@@ -3,7 +3,7 @@ layout: post
 title:  "Clube do Livro VTEX: Decisões de documentação"
 author: VTEXteam
 categories: [ Cultura Writer ]
-image: assets\images\VTEX - Decisões de documentação.jpg
+image: assets/images/VTEX-decisoes-de-documentacao.jpg
 ---
 
 _Esse post faz parte de uma série de conteúdos produzidos pelo time de Tech Writers da VTEX em nosso projeto do clube do livro, em que discutimos o livro The Product is Docs. Neste post nós vamos discutir o pilar da **escrita** no contexto de Technical Writing. Iremos abordar quais decisões precisamos tomar durante o processo de escrita, como editar uma documentação e como colaborar com outros indivíduos para produzir documentação técnica. Veja abaixo os artigos que fazem parte da seção Escrita._
