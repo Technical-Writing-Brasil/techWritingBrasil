@@ -10,7 +10,7 @@ _Esse post faz parte de uma série de conteúdos produzidos pelo time de tech wr
 
 
 - Autoria colaborativa (Collaborative Authoring)
-- Decisões de documentação (Documentation Decisions) - Em breve
+- [Decisões de documentação (Documentation Decisions)](https://techwriting.com.br/clube-do-livro-vtex-decisoes-de-documentacao)
 - Edição técnica (Technical Editing) - Em breve
 
 ---------------------------------------
