@@ -51,7 +51,6 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 * [Decisões de documentação _(Documentation Decisions)_](https://techwriting.com.br/VTEX-book-club-decisoes-de-documentacao)  
 * Edição técnica _(Technical Editing)_ 
 
-
 **Aprender (_Learning_)**
 
 * Objetivos de aprendizado _(Learning Objectives)_

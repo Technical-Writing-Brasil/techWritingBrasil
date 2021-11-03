@@ -21,7 +21,7 @@ O capítulo _Collaborative Authoring_ do livro _The Product is Docs_ propõe uma
 
 Na visão do time de documentação do Splunk, o mercado de Technical Writing tem passado por uma mudança de mentalidade, partindo de um modelo mais estático de desenvolvimento de informação para modelos mais colaborativos. A tendência é que os autores deixem de se comportar como “donos” da documentação e que esta passe a ser  construída pelo time como um todo através de ferramentas como _wikis_.
 
-> _“A combinação entre ferramentas, educação e tendências da indústria nos conduzem fortemente a um verdadeiro modelo de autoria colaborativa.” (p. 36)_
+> _A combinação entre ferramentas, educação e tendências da indústria nos conduzem fortemente a um verdadeiro modelo de autoria colaborativa. (p. 36)_
 
 
 ### Trabalhar com múltiplos autores
