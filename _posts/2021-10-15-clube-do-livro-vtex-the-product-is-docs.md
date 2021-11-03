@@ -47,9 +47,9 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 
 **Escrita _(Writing)_**
 
-* [Autoria colaborativa _(Collaborative Authoring)_](https://techwriting.com.br/VTEX-book-club-autoria-colaborativa/)
-* Decisões de documentação _(Documentation Decisions)_
-* Edição técnica _(Technical Editing)_
+* [Autoria colaborativa _(Collaborative Authoring)_](https://techwriting.com.br/VTEX-book-club-autoria-colaborativa/)  
+* [Decisões de documentação _(Documentation Decisions)_](https://techwriting.com.br/VTEX-book-club-decisoes-de-documentacao)  
+* Edição técnica _(Technical Editing)_ 
 
 **Aprender (_Learning_)**
 
