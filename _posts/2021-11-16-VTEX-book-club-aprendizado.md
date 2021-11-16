@@ -76,7 +76,7 @@ Antes de começar a descrever um passo a passo, também é importante incluir pr
 Para identificar o público e facilitar a definição de objetivos de aprendizado de uma documentação, o time do Splunk propõe o uso de uma matriz de **Proficiência X Compreensão**. A posição do objetivo de aprendizado na matriz pode guiar o tech writer  para entender a quantidade e a estrutura da documentação que serão necessárias para que um leitor atinja os seus objetivos.
  
  
-![Matriz de objetivos de aprendizado](/assets/images/VTEX-book-club-aprendizado-matriz.png "Matriz de objetivos de aprendizado")/br
+![Matriz de objetivos de aprendizado](/assets/images/VTEX-book-club-aprendizado-matriz.png "Matriz de objetivos de aprendizado")<br>
 _Fonte: The Product is Docs, tradução e adaptação feita pelo time VTEX._
  
  
