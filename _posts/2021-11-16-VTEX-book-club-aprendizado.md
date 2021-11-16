@@ -3,7 +3,7 @@ layout: post
 title: "Clube do Livro VTEX: Objetivos de aprendizado"
 author: VTEXteam
 categories: [Cultura Writer]
-image: /assets/images/VTEX-book-club-aprendizado.jpg
+image: assets/images/VTEX-book-club-aprendizado.jpg
 ---
 
 _Este post faz parte de uma série de conteúdos produzidos pelo time de tech writers da VTEX em nosso projeto do clube do livro, em que discutimos o livro The Product is Docs. Neste post nós vamos discutir o pilar do **aprendizado** no contexto de Technical Writing. Iremos abordar quais os possíveis objetivos de aprendizado de uma documentação e como utilizá-los._
