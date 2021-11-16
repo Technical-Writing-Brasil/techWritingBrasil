@@ -77,6 +77,7 @@ Para identificar o público e facilitar a definição de objetivos de aprendizad
  
  
 ![Matriz de objetivos de aprendizado](/assets/images/VTEX-book-club-aprendizado-matriz.png "Matriz de objetivos de aprendizado")
+_Fonte: The Product is Docs, tradução e adaptação feita pelo time VTEX._
  
  
  
