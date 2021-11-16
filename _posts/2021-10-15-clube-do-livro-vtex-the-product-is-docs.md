@@ -49,11 +49,11 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 
 * [Autoria colaborativa _(Collaborative Authoring)_](https://techwriting.com.br/VTEX-book-club-autoria-colaborativa/)  
 * [Decisões de documentação _(Documentation Decisions)_](https://techwriting.com.br/VTEX-book-club-decisoes-documentacao/)  
-* Edição técnica _(Technical Editing)_ 
+* [Edição técnica _(Technical Editing)_](https://techwriting.com.br/VTEX-book-club-edicao-tecnica) 
 
 **Aprender (_Learning_)**
 
-* Objetivos de aprendizado _(Learning Objectives)_
+* [Objetivos de aprendizado _(Learning Objectives)_](https://techwriting.com.br/VTEX-book-club-aprendizado/)
 
 **Processos e ferramentas _(Processes and tools)_**
 
