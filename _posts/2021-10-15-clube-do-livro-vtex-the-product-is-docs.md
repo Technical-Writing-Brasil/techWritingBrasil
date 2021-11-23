@@ -4,6 +4,7 @@ title:  "Clube do Livro VTEX: The Product is Docs"
 author: VTEXteam
 categories: [ Cultura Writer ]
 image: assets/images/book-club.jpeg
+tags: featured
 ---
 
 Somos cinco mulheres - [Carolina Menezes](https://www.linkedin.com/in/carolinamnz/), [Júlia Rabello](https://www.linkedin.com/in/juliarabello/), [Juliana Meyer](https://www.linkedin.com/in/oijulianameyer/), [Karen Krieger](https://www.linkedin.com/in/karen-krieger-derraik/) e [Mariana Caetano](https://www.linkedin.com/in/marianacaetanop/) - technical writers do time de Education da VTEX. Nossa equipe é responsável por criar e manter toda a documentação pública da empresa, por meio dos nossos portais [Help Center](https://help.vtex.com/) e [Developer Portal](developers.vtex.com). 
