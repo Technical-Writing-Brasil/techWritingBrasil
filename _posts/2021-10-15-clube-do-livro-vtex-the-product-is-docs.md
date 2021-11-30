@@ -65,7 +65,7 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 
 * [Colaborando com UX e Design _(Working with User Experience and Design)_](https://techwriting.com.br/VTEX-book-club-colaborando-ux-design/)
 * Colaborando com engenheiros _(Working with Engineers)_
-* Colaborando com Marketing _(Working with Marketing)_
+* [Colaborando com Marketing (_Working with Marketing_)](https://techwriting.com.br/VTEX-book-club-colaborando-marketing/)
 * Colaborando com Gestão de Produto _(Working with Product Management)_
 
 
