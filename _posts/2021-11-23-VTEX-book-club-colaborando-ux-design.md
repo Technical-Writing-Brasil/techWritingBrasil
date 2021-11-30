@@ -11,7 +11,7 @@ _Esse post faz parte de uma série de conteúdos produzidos pelo time de tech wr
 Technical writing é uma área chave em empresas de tecnologia. Nos relacionamos diariamente com outras áreas e até dependemos de outros profissionais para realizarmos nosso trabalho. Construir pontes e cultivar relacionamentos é um aspecto central do nosso dia a dia, que pode trazer oportunidades e desafios. Agrupamos alguns capítulos do livro que abordam a colaboração com outras áreas:
 
 - Colaborando com Experiência do Usuário (UX) e Design (_Working with User Experience and Design_)
-- Colaborando com Marketing (_Working with Marketing_) - Em breve
+- [Colaborando com Marketing (_Working with Marketing_)](https://techwriting.com.br/VTEX-book-club-colaborando-marketing/)
 - Colaborando com Gestão de Produto (_Working with Product Management_)  - Em breve
 - Colaborando com engenheiros (_Working with engineers_)  - Em breve
 
