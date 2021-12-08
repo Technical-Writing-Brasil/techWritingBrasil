@@ -95,7 +95,7 @@ Participar no início do desenvolvimento do produto também permite:
 
 Ao levantar questionamentos sobre o design e a definição de produtos, confie na sua experiência sobre o que os usuários podem achar confuso. É claro que são os gerentes de produto que vão decidir qual dos problemas percebidos vale a pena resolver e quais não. De qualquer forma, você é mais uma voz na equipe que está acostumada a articular a perspectiva e as necessidades do usuário.
 
-Seja proativo em solicitar a alteração de a alteração de pequenos problemas de experiência do usuário, em vez de assumir que alguém os resolverá espontaneamente ou que alguém vai pedir sua sugestão. Não restrinja sua atenção apenas à escrita e às mensagens de erro da interface do produto, atente-se também a questões como consistência em _styling_, terminologia de produtos e recursos, pontuação e cores.
+Seja proativo em solicitar a alteração de pequenos problemas de experiência do usuário, em vez de assumir que alguém os resolverá espontaneamente ou que alguém vai pedir sua sugestão. Não restrinja sua atenção apenas à escrita e às mensagens de erro da interface do produto, atente-se também a questões como consistência em _styling_, terminologia de produtos e recursos, pontuação e cores.
 
 Os gerentes de produto muitas vezes não têm tempo para atender a um alto nível de detalhes, especialmente nos primeiros estágios de desenvolvimento ou Design de um produto ou funcionalidade, mas, ao priorizar isso durante todo o processo de desenvolvimento, você pode evitar que erros ou problemas de estilo sejam incorporados na construção final.
 
@@ -130,7 +130,7 @@ PMs buscam basear suas decisões na visão mais precisa possível sobre a opini�
    </td>
   </tr>
   <tr>
-   <td>Documentação, seja ela ajuda dentro do produto ou conteúdo externo, é uma parte integral do produto, e assim parte da responsabilidade geral do gerente de produto. 
+   <td>A documentação — seja ela uma ajuda dentro do produto ou conteúdo externo — é uma parte integral do produto e, portanto, também faz parte da responsabilidade geral do gerente de produto. 
    </td>
    <td>172
    </td>
