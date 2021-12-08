@@ -31,7 +31,7 @@ Ao trabalhar com a equipe de marketing, uma equipe de documentação pode obter 
 - **Ajudar a compreender atores do mercado e competidores:** acesse a documentação dos concorrentes da sua empresa para identificar casos de uso e posicionamento do produto.
 - **Alinhar objetivos do cliente:** mostre ao usuário como ele pode realizar as ações que o marketing divulga, alinhando a mensagem de vendas com o que é enfatizado na documentação.
 - **Ajudar a entender metas futuras e planejamento:** informe-se sobre mudanças futuras no produto e em seu público para entender como elas afetarão sua arquitetura da informação.  Trabalhar com marketing te prepara para mudanças assim, agindo de forma proativa e ajudando a dar as boas-vindas a usuários até o produto e a documentação.
-- **Proporcionar melhores documentações:** estude o conteúdo de marketing para verificar as  chamadas para a ação, ou _call-to-actions _utilizadas nesse tipo de conteúdo, que são relevantes para usuários e documentação_._ 
+- **Proporcionar melhores documentações:** estude o conteúdo de marketing para verificar as  chamadas para a ação, ou _call-to-actions_ utilizadas nesse tipo de conteúdo, que são relevantes para usuários e documentação. 
 
 ## Como tech writers podem colaborar com marketing
 
