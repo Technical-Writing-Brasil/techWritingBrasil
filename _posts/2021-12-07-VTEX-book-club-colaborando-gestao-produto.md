@@ -130,7 +130,7 @@ PMs buscam basear suas decisões na visão mais precisa possível sobre a opini�
    </td>
   </tr>
   <tr>
-   <td>A documentação — seja ela uma ajuda dentro do produto ou conteúdo externo — é uma parte integral do produto e, portanto, também faz parte da responsabilidade geral do gerente de produto. 
+   <td>A documentação — seja ela uma seção de ajuda dentro do produto ou um conteúdo externo — é parte integral do produto e, portanto, também faz parte da responsabilidade geral do gerente de produto. 
    </td>
    <td>172
    </td>
