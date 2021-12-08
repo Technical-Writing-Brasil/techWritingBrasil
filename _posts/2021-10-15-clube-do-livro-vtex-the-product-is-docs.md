@@ -58,13 +58,13 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 
 **Processos e ferramentas _(Processes and tools)_**
 
-* Mantendo conteúdo existente _(Maintaining Existing Content)_
-* Pesquisa para technical writers _(Research for technical writers)_
+* Mantendo conteúdo existente _(Maintaining Existing Content)_ - Em breve
+* Pesquisa para technical writers _(Research for technical writers)_ - Em breve
 
 **Colaborando com outros times _(Working with other teams)_**
 
 * [Colaborando com UX e Design _(Working with User Experience and Design)_](https://techwriting.com.br/VTEX-book-club-colaborando-ux-design/)
-* Colaborando com engenheiros _(Working with Engineers)_
+* Colaborando com engenheiros _(Working with Engineers)_ - Em breve
 * [Colaborando com Marketing (_Working with Marketing_)](https://techwriting.com.br/VTEX-book-club-colaborando-marketing/)
 * [Colaborando com Gestão de Produto _(Working with Product Management)_](https://techwriting.com.br/VTEX-book-club-colaborando-gestao-produto/)
 
