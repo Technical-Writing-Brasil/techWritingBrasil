@@ -14,7 +14,7 @@ Technical writing é uma área chave em empresas de tecnologia. Nos relacionamos
 - [Colaborando com UX e Design (_Working with User Experience and Design_)](https://techwriting.com.br/VTEX-book-club-colaborando-ux-design/)
 - Colaborando com Marketing (_Working with Marketing_)
 - [Colaborando com Gestão de Produto (_Working with Product Management_)](https://techwriting.com.br/VTEX-book-club-colaborando-gestao-produto/)
-- Colaborando com engenheiros (_Working with engineers_)  - Em breve
+- [Colaborando com engenheiros (_Working with engineers_)](https://techwriting.com.br/VTEX-book-club-colaborando-engenheiros/)
 
 Neste post nós vamos discutir a **colaboração com marketing** no contexto de Technical Writing. Iremos abordar como o marketing pode ajudar documentação e vice-versa, como inserir conceitos de marketing no seu time, e como colaborar em ciclos de lançamento.
 
@@ -88,6 +88,10 @@ Confira as dicas abaixo:
 - Foque em relevância e influencie seus colegas de marketing a fazerem o mesmo.
 - Trabalhe com outras áreas relacionadas, como gestores de produto, para ganhar sua confiança e explicar os benefícios da sua colaboração.
 - Apoie eventos que o time de marketing planeja, pois todos apreciam voluntários e conhecer usuários, e demonstrar seu conhecimento sobre o produto é um benefício para você.
+
+## Citações
+
+Traduzimos livremente alguns trechos do livro que mais chamaram nossa atenção:
 
 <table class="table-vtex">
   <tr>
