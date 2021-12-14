@@ -13,7 +13,7 @@ Technical writing é uma área chave em empresas de tecnologia. Nos relacionamos
 - [Colaborando com UX e Design (_Working with User Experience and Design_)](https://techwriting.com.br/VTEX-book-club-colaborando-ux-design/)
 - [Colaborando com Marketing (_Working with Marketing_)](https://techwriting.com.br/VTEX-book-club-colaborando-marketing/)
 - Colaborando com Gestão de Produto (_Working with Product Management_)
-- Colaborando com engenheiros (_Working with engineers_)  - Em breve
+- [Colaborando com engenheiros (_Working with engineers_)](https://techwriting.com.br/VTEX-book-club-colaborando-engenheiros/)
 
 Parte da responsabilidade de um gestor de produto (_Product Manager_, ou PM) é compreender clientes e traduzir suas necessidades em objetivos do produto. Colaborar com esses profissionais faz toda a diferença para o sucesso da sua documentação. 
 
@@ -109,6 +109,10 @@ Busque formas de aplicar feedbacks, objetivos e preferências de PMs em todos os
 #### Compartilhe feedbacks de clientes
 
 PMs buscam basear suas decisões na visão mais precisa possível sobre a opinião dos usuários. Se você tiver um método robusto para obter feedbacks por meio de um portal de documentação, compartilhe as descobertas oriundas de feedbacks  com o time de PMs para que eles utilizem esses insumos juntamente com outros métodos para captar a opinião de clientes. Porém, fique atento para o fato de que os feedbacks enviados em seu portal de documentação não necessariamente representam a maioria dos usuários. É possível que usuários novos deixem mais comentários que usuários já habituados com o produto, por exemplo. Ainda assim, os dados coletados podem trazer insights úteis sobre mudanças no perfil dos usuários.
+
+## Citações
+
+Traduzimos livremente alguns trechos do livro que mais chamaram nossa atenção:
 
 <table class="table-vtex">
   <tr>

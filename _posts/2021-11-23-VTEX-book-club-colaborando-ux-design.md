@@ -13,7 +13,7 @@ Technical writing é uma área chave em empresas de tecnologia. Nos relacionamos
 - Colaborando com Experiência do Usuário (UX) e Design (_Working with User Experience and Design_)
 - [Colaborando com Marketing (_Working with Marketing_)](https://techwriting.com.br/VTEX-book-club-colaborando-marketing/)
 - [Colaborando com Gestão de Produto (_Working with Product Management_)](https://techwriting.com.br/VTEX-book-club-colaborando-gestao-produto/)
-- Colaborando com engenheiros (_Working with engineers_)  - Em breve
+- [Colaborando com engenheiros (_Working with engineers_)](https://techwriting.com.br/VTEX-book-club-colaborando-engenheiros/)
 
 ## Tech Writers e Designers
 
