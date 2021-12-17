@@ -58,7 +58,7 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 
 **Processos e ferramentas _(Processes and tools)_**
 
-* Mantendo conteúdo existente _(Maintaining Existing Content)_ - Em breve
+* [Mantendo conteúdo existente _(Maintaining Existing Content)_](https://techwriting.com.br/VTEX-book-club-mantendo-conteudo-existente/)
 * Pesquisa para technical writers _(Research for technical writers)_ - Em breve
 
 **Colaborando com outros times _(Working with other teams)_**
