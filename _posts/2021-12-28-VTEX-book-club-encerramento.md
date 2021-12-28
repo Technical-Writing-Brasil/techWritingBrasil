@@ -50,17 +50,47 @@ Os itens incluíam desde projetos feitos pelo time do Splunk, que gostaríamos d
 
 ### Lista de desejos
 
-- [ ] Criar projeto especial para investigar audiência.
-- [x]  Estratégia de marca para a Comunidade VTEX, para fortalecer nossa voz com usuários.
-- [ ] Criar dashboard com métricas sobre o Help Center da VTEX com dados sobre artigos mais visitados, artigos com mais feedbacks enviados, quanto tempo demora para um feedback ser incorporado à documentação, o tempo médio que um usuário passa em cada artigo, entre outros.
-- [ ] Mensurando sucesso: como podemos tornar feedbacks e métricas de sucesso mais amigáveis para o usuário.
-- [ ] Criar modelos de documentação orientada a cenários práticos.
-- [x]  Criar checklist para _peer reviews_.
-- [ ] Criar uma automação para relacionar tarefas de documentação a tarefas dos times de produto no Jira.
-- [ ] Melhorar o gerenciamento de links em nossos artigos.
-- [ ] Melhorar o versionamento do Contentful, ferramenta de gerenciamento de artigos que utilizamos para publicações em nosso Help Center.
-- [ ] Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.
-
+<div>
+  <input type="checkbox" id="l1" name="l1">
+  <label for="l1">Criar projeto especial para investigar audiência.</label>
+</div>
+<div>
+  <input type="checkbox" id="l2" name="l2" checked>
+  <label for="l2">Estratégia de marca para a Comunidade VTEX, para fortalecer nossa voz com usuários.</label>
+</div>
+<div>
+  <input type="checkbox" id="l3" name="l3">
+  <label for="l3">Criar dashboard com métricas sobre o Help Center da VTEX com dados sobre artigos mais visitados, artigos com mais feedbacks enviados, quanto tempo demora para um feedback ser incorporado à documentação, o tempo médio que um usuário passa em cada artigo, entre outros.</label>
+</div>
+<div>
+  <input type="checkbox" id="l4" name="l4">
+  <label for="l4">Mensurando sucesso: como podemos tornar feedbacks e métricas de sucesso mais amigáveis para o usuário.</label>
+</div>
+<div>
+  <input type="checkbox" id="l5" name="l5">
+  <label for="l5">Criar modelos de documentação orientada a cenários práticos.</label>
+</div>
+<div>
+  <input type="checkbox" id="l6" name="l6" checked>
+  <label for="l6">Criar checklist para <em>peer reviews</em>.</label>
+</div>
+<div>
+  <input type="checkbox" id="l7" name="l7">
+  <label for="l7">Criar uma automação para relacionar tarefas de documentação a tarefas dos times de produto no Jira.</label>
+</div>
+<div>
+  <input type="checkbox" id="l8" name="l8">
+  <label for="l8">Melhorar o gerenciamento de links em nossos artigos.</label>
+</div>
+<div>
+  <input type="checkbox" id="l9" name="l9">
+  <label for="l9">Melhorar o versionamento do Contentful, ferramenta de gerenciamento de artigos que utilizamos para publicações em nosso Help Center.</label>
+</div>
+<div>
+  <input type="checkbox" id="l10" name="l10">
+  <label for="l10">Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.</label>
+</div>
+</br>
 
 Algumas iniciativas já saíram do papel e viraram realidade. Um exemplo foi o lançamento da [VTEX Community](https://community.vtex.com/) e a checklist para revisão de artigos. Também criamos um dashboard que cruza dados do Google Analytics e do Contentful para comparar artigos mais visitados com data da última atualização.
 
