@@ -13,6 +13,7 @@ A partir do nosso interesse em leitura, organizamos um clube do livro para anali
 
 
 > The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss
+
 ________________________________________________________________________________
 _“Quanto mais livros você ler, mais coisas saberá. Quanto mais aprender, mais lugares conhecerá.” - Dr. Seuss_
 
