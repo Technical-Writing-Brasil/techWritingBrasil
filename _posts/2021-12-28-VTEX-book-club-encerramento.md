@@ -50,16 +50,16 @@ Os itens incluíam desde projetos feitos pelo time do Splunk, que gostaríamos d
 
 ### Lista de desejos
 
-[ ] Criar projeto especial para investigar audiência.
-[x]  Estratégia de marca para a Comunidade VTEX, para fortalecer nossa voz com usuários.
-[ ] Criar dashboard com métricas sobre o Help Center da VTEX com dados sobre artigos mais visitados, artigos com mais feedbacks enviados, quanto tempo demora para um feedback ser incorporado à documentação, o tempo médio que um usuário passa em cada artigo, entre outros.
-[ ] Mensurando sucesso: como podemos tornar feedbacks e métricas de sucesso mais amigáveis para o usuário.
-[ ] Criar modelos de documentação orientada a cenários práticos.
-[x]  Criar checklist para _peer reviews_.
-[ ] Criar uma automação para relacionar tarefas de documentação a tarefas dos times de produto no Jira.
-[ ] Melhorar o gerenciamento de links em nossos artigos.
-[ ] Melhorar o versionamento do Contentful, ferramenta de gerenciamento de artigos que utilizamos para publicações em nosso Help Center.
-[ ] Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.
+- [ ] Criar projeto especial para investigar audiência.
+- [x]  Estratégia de marca para a Comunidade VTEX, para fortalecer nossa voz com usuários.
+- [ ] Criar dashboard com métricas sobre o Help Center da VTEX com dados sobre artigos mais visitados, artigos com mais feedbacks enviados, quanto tempo demora para um feedback ser incorporado à documentação, o tempo médio que um usuário passa em cada artigo, entre outros.
+- [ ] Mensurando sucesso: como podemos tornar feedbacks e métricas de sucesso mais amigáveis para o usuário.
+- [ ] Criar modelos de documentação orientada a cenários práticos.
+- [x]  Criar checklist para _peer reviews_.
+- [ ] Criar uma automação para relacionar tarefas de documentação a tarefas dos times de produto no Jira.
+- [ ] Melhorar o gerenciamento de links em nossos artigos.
+- [ ] Melhorar o versionamento do Contentful, ferramenta de gerenciamento de artigos que utilizamos para publicações em nosso Help Center.
+- [ ] Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.
 
 
 Algumas iniciativas já saíram do papel e viraram realidade. Um exemplo foi o lançamento da [VTEX Community](https://community.vtex.com/) e a checklist para revisão de artigos. Também criamos um dashboard que cruza dados do Google Analytics e do Contentful para comparar artigos mais visitados com data da última atualização.
@@ -79,6 +79,7 @@ Quando terminamos The Product is Docs, chegou o momento de escolher os próximos
 * [Strategic Writing for UX](https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/), Torrey Podmajersky
 * [Everything is Miscellaneous](https://www.everythingismiscellaneous.com/), David Weinberger
 * [Design for how people learn](https://www.amazon.com/Design-People-Learn-Voices-Matter-ebook/dp/B018OJP5QW), Julie Dirksen 
+
 
 ![VTEX Education team - Próximos livros](/assets/images/book-club-proximos-livros.png)
 _Print do quadro do Miro onde fizemos a votação do próximo livro._
