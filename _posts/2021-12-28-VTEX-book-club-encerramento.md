@@ -81,7 +81,6 @@ Os itens incluíam desde projetos feitos pelo time do Splunk, que gostaríamos d
   <input type="checkbox" id="l10" name="l10">
   Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.
 </div>
-<br>
 
 Algumas iniciativas já saíram do papel e viraram realidade. Um exemplo foi o lançamento da [VTEX Community](https://community.vtex.com/) e a checklist para revisão de artigos. Também criamos um dashboard que cruza dados do Google Analytics e do Contentful para comparar artigos mais visitados com data da última atualização.
 
@@ -101,6 +100,7 @@ Quando terminamos The Product is Docs, chegou o momento de escolher os próximos
 * [Everything is Miscellaneous](https://www.everythingismiscellaneous.com/), David Weinberger
 * [Design for how people learn](https://www.amazon.com/Design-People-Learn-Voices-Matter-ebook/dp/B018OJP5QW), Julie Dirksen 
 
+<br>
 
 ![VTEX Education team - Próximos livros](/assets/images/book-club-proximos-livros.png)
 _Print do quadro do Miro onde fizemos a votação do próximo livro._
