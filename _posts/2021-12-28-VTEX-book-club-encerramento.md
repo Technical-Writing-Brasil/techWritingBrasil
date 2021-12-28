@@ -3,7 +3,7 @@ layout: post
 title: "Clube do Livro VTEX: The Product is Docs - Encerramento"
 author: VTEXteam
 categories: [Cultura Writer]
-image: assets/images/VTEX-book-club-encerramento.jpg
+image: assets/images/book-club-encerramento.jpg
 ---
 
 
