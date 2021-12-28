@@ -81,6 +81,7 @@ Os itens incluíam desde projetos feitos pelo time do Splunk, que gostaríamos d
   <input type="checkbox" id="l10" name="l10">
   Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.
 </div>
+<br>
 
 Algumas iniciativas já saíram do papel e viraram realidade. Um exemplo foi o lançamento da [VTEX Community](https://community.vtex.com/) e a checklist para revisão de artigos. Também criamos um dashboard que cruza dados do Google Analytics e do Contentful para comparar artigos mais visitados com data da última atualização.
 
