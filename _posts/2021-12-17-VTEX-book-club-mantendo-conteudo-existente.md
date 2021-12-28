@@ -10,12 +10,12 @@ image: assets/images/VTEX-book-club-mantendo-conteudo.jpg
 _Este post faz parte de uma série de conteúdos produzidos pelo time de tech writers da VTEX em nosso [projeto do clube do livro](https://techwriting.com.br/clube-do-livro-vtex-the-product-is-docs). Neste post nós vamos discutir o pilar de **Processos e ferramentas** no contexto de Technical Writing. Iremos abordar como fazer a manutenção da documentação existente e pesquisar para escrever documentação técnica. Veja abaixo os artigos que fazem parte da seção Processos e ferramentas._
 
 * Mantendo o conteúdo existente
-* Pesquisa para technical writers - Em breve
+* [Pesquisa para technical writers](https://techwriting.com.br/VTEX-book-club-pesquisa-technical-writers/)
 
 
 Toda página de documentação é uma oportunidade para causar uma boa impressão no cliente, não importa o quão antiga ela seja. Por isso, é importante saber equilibrar a documentação de novas funcionalidades do produto com a manutenção de artigos existentes.
 
-> Não importa há quanto tempo a sua documentação existe, toda página ou artigo de um conjunto de documentação representa uma oportunidade de ter uma primeira impressão positiva nos seus usuários.” (p. 105)
+> Não importa há quanto tempo a sua documentação existe, toda página ou artigo de um conjunto de documentação representa uma oportunidade de ter uma primeira impressão positiva nos seus usuários. (p. 105)
 
 
 ### Por que o conteúdo precisa de manutenção?

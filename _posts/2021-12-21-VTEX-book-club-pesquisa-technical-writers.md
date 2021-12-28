@@ -51,14 +51,14 @@ Se você não puder testar o produto, elabore perguntas com cuidado e faça uma 
 
 Essas pessoas serão suas [fontes](https://www.casadosfocas.com.br/as-fontes-jornalisticas/) de informação: se você fosse um repórter jornalístico, seriam seus entrevistados.
 
-> Fontes são ocupadas, e suas perguntas provavelmente não são a prioridade delas. Depois de um intervalo de tempo razoável, pergunte novamente. Seja tão alegremente persistente quanto um golden retriever. Dê-lhes um prazo.” (p. 145)
+> Fontes são ocupadas, e suas perguntas provavelmente não são a prioridade delas. Depois de um intervalo de tempo razoável, pergunte novamente. Seja tão alegremente persistente quanto um golden retriever. Dê-lhes um prazo. (p. 145)
 
 
 #### Quais são as perguntas certas?
 
 Durante o processo de investigação, faça as perguntas certas caso você deseje focar em ajudar o seu leitor a resolver problemas do mundo real e não em documentações conceituais. As perguntas certas, no entanto, irão depender do seu público.
 
-> Faça as perguntas que respondem o que os seus leitores querem saber.” (p. 145)
+> Faça as perguntas que respondem o que os seus leitores querem saber. (p. 145)
 
 
 #### Como formular uma pergunta?

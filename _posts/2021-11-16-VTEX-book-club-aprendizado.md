@@ -16,7 +16,7 @@ Existem diversos tipos de objetivos de aprendizado, como:
 * **Compreensão**: entender como determinados conceitos ou funcionalidades operam.
 * **Habilidade aplicável**: aprender a realizar uma tarefa.
  
-> _Quando você escrever, aplique os objetivos do usuário para definir um propósito abrangente para os tópicos, capítulos e manuais. Identificar as metas do usuário pode ser um primeiro passo útil para descobrir e estabelecer objetivos de aprendizado. (p. 86)_
+> Quando você escrever, aplique os objetivos do usuário para definir um propósito abrangente para os tópicos, capítulos e manuais. Identificar as metas do usuário pode ser um primeiro passo útil para descobrir e estabelecer objetivos de aprendizado. (p. 86)
  
 É importante saber distinguir os objetivos de aprendizado e as metas do usuário. As metas do usuário são metas reais, pragmáticas e relacionadas ao uso do produto, enquanto os objetivos de aprendizado são relacionados à documentação e servem para guiar o technical writer durante a escrita.
  

@@ -18,7 +18,7 @@ O capítulo sobre edição técnica aborda o processo de revisão de textos prod
 
 Na indústria de software, a tendência é que lançamentos ocorram com uma frequência exponencial e a documentação precisa acompanhar as evoluções do produto. Por conta dessa velocidade, pode ser um desafio encontrar tempo para a edição técnica. Mesmo assim, é importante que esse processo seja adotado para garantir a qualidade da documentação do produto.
 
-> _Edição técnica é o processo de oferecer feedback para technical writers sobre a efetividade do seu conteúdo. A edição técnica ajuda a assegurar que a documentação técnica é acessível, clara, útil e relevante para o público pretendido. (p. 156)_
+> Edição técnica é o processo de oferecer feedback para technical writers sobre a efetividade do seu conteúdo. A edição técnica ajuda a assegurar que a documentação técnica é acessível, clara, útil e relevante para o público pretendido. (p. 156)
 
 
 ## O que é edição técnica?

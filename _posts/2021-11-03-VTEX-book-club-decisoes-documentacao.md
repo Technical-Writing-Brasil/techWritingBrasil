@@ -16,7 +16,7 @@ _Esse post faz parte de uma série de conteúdos produzidos pelo time de Tech Wr
 
 Dentro do processo de documentação, tech writers tomam grandes decisões em relação a conteúdo e formato. Neste artigo, abordamos e discutimos as escolhas que tech writers realizam no dia a dia, apontadas pelo time de documentação do Splunk.
 
-> _As decisões mais importantes são feitas quando você prioriza pedidos de documentação e quando você identifica o que documentar. (p.52)_
+> As decisões mais importantes são feitas quando você prioriza pedidos de documentação e quando você identifica o que documentar. (p.52)
 
 ## Quem contribui para decisões de documentação?
 

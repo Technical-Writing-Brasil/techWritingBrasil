@@ -28,7 +28,7 @@ Nosso papel como primeiros usuários de um produto é uma posição única dentr
 
 Ao explorar uma funcionalidade para documentá-la, identificamos quais aspectos do produto os usuários compreenderão intuitivamente e onde precisarão de mais ajuda. Quando tiver mais dificuldade em documentar algum aspecto do produto, é provável que gerentes de produto, UX designers e engenheiros estejam construindo uma funcionalidade que não leva o público alvo em consideração. O que deve te guiar é a pergunta: 
 
-> _Como ajudo o público alvo desse produto a entendê-lo? [...] Quando você sabe que algo está errado, você deve levantar a voz. Você tem o direito de questionar design imperfeito. (p. 186)_
+> Como ajudo o público alvo desse produto a entendê-lo? [...] Quando você sabe que algo está errado, você deve levantar a voz. Você tem o direito de questionar design imperfeito. (p. 186)
 
 Se problemas começam a partir de requisitos mal definidos, como uma definição imprecisa  sobre qual é o público alvo, o time de documentação e o time de UX podem unir esforços de forma poderosa ao insistir em uma compreensão melhor do produto.
 

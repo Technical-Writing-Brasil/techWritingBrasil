@@ -12,7 +12,7 @@ Somos cinco mulheres - [Carolina Menezes](https://www.linkedin.com/in/carolinamn
 A partir do nosso interesse em leitura, organizamos um clube do livro para analisar as principais referências de Technical Writing no mundo e pensar em como elas refletem nossa realidade. Como a maior parte do conteúdo do universo de Technical Writing é estrangeiro e nós somos um time formado por brasileiros, nos questionamos: será que a visão dessas pessoas se aplica ao nosso contexto?
 
 
-## _“The more that you read, the more things you will know. The more that you learn, the more places you'll go.” - Dr. Seuss_
+> The more that you read, the more things you will know. The more that you learn, the more places you'll go. - Dr. Seuss
 ________________________________________________________________________________
 _“Quanto mais livros você ler, mais coisas saberá. Quanto mais aprender, mais lugares conhecerá.” - Dr. Seuss_
 
@@ -67,6 +67,10 @@ Agrupamos os capítulos livremente em temáticas mais amplas, dividindo os posts
 * [Colaborando com engenheiros (_Working with engineers_)](https://techwriting.com.br/VTEX-book-club-colaborando-engenheiros/)
 * [Colaborando com Marketing (_Working with Marketing_)](https://techwriting.com.br/VTEX-book-club-colaborando-marketing/)
 * [Colaborando com Gestão de Produto _(Working with Product Management)_](https://techwriting.com.br/VTEX-book-club-colaborando-gestao-produto/)
+
+**Encerramento**
+
+* [Clube do Livro VTEX: The Product is Docs - Encerramento](https://techwriting.com.br/VTEX-book-club-encerramento/)
 
 
 ![VTEX Education team - Quadro no Miro](/assets/images/book-club-miro.png)
