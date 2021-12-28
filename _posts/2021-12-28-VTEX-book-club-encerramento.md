@@ -51,46 +51,37 @@ Os itens incluíam desde projetos feitos pelo time do Splunk, que gostaríamos d
 ### Lista de desejos
 
 <div>
-  <input type="checkbox" id="l1" name="l1">
-  <label for="l1">Criar projeto especial para investigar audiência.</label>
+  <input type="checkbox" id="l1" name="l1"> Criar projeto especial para investigar audiência.
 </div>
 <div>
-  <input type="checkbox" id="l2" name="l2" checked>
-  <label for="l2">Estratégia de marca para a Comunidade VTEX, para fortalecer nossa voz com usuários.</label>
+  <input type="checkbox" id="l2" name="l2" checked> Estratégia de marca para a Comunidade VTEX, para fortalecer nossa voz com usuários.
 </div>
 <div>
-  <input type="checkbox" id="l3" name="l3">
-  <label for="l3">Criar dashboard com métricas sobre o Help Center da VTEX com dados sobre artigos mais visitados, artigos com mais feedbacks enviados, quanto tempo demora para um feedback ser incorporado à documentação, o tempo médio que um usuário passa em cada artigo, entre outros.</label>
+  <input type="checkbox" id="l3" name="l3"> Criar dashboard com métricas sobre o Help Center da VTEX com dados sobre artigos mais visitados, artigos com mais feedbacks enviados, quanto tempo demora para um feedback ser incorporado à documentação, o tempo médio que um usuário passa em cada artigo, entre outros.
 </div>
 <div>
-  <input type="checkbox" id="l4" name="l4">
-  <label for="l4">Mensurando sucesso: como podemos tornar feedbacks e métricas de sucesso mais amigáveis para o usuário.</label>
+  <input type="checkbox" id="l4" name="l4"> Mensurando sucesso: como podemos tornar feedbacks e métricas de sucesso mais amigáveis para o usuário.
 </div>
 <div>
-  <input type="checkbox" id="l5" name="l5">
-  <label for="l5">Criar modelos de documentação orientada a cenários práticos.</label>
+  <input type="checkbox" id="l5" name="l5"> Criar modelos de documentação orientada a cenários práticos.
 </div>
 <div>
-  <input type="checkbox" id="l6" name="l6" checked>
-  <label for="l6">Criar checklist para <em>peer reviews</em>.</label>
+  <input type="checkbox" id="l6" name="l6" checked> Criar checklist para <em>peer reviews</em>.
 </div>
 <div>
-  <input type="checkbox" id="l7" name="l7">
-  <label for="l7">Criar uma automação para relacionar tarefas de documentação a tarefas dos times de produto no Jira.</label>
+  <input type="checkbox" id="l7" name="l7"> Criar uma automação para relacionar tarefas de documentação a tarefas dos times de produto no Jira.
 </div>
 <div>
-  <input type="checkbox" id="l8" name="l8">
-  <label for="l8">Melhorar o gerenciamento de links em nossos artigos.</label>
+  <input type="checkbox" id="l8" name="l8"> Melhorar o gerenciamento de links em nossos artigos.
 </div>
 <div>
-  <input type="checkbox" id="l9" name="l9">
-  <label for="l9">Melhorar o versionamento do Contentful, ferramenta de gerenciamento de artigos que utilizamos para publicações em nosso Help Center.</label>
+  <input type="checkbox" id="l9" name="l9"> Melhorar o versionamento do Contentful, ferramenta de gerenciamento de artigos que utilizamos para publicações em nosso Help Center.
 </div>
 <div>
   <input type="checkbox" id="l10" name="l10">
-  <label for="l10">Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.</label>
+  Criar um artigo discutindo as nossas melhores práticas no trabalho remoto.
 </div>
-</br>
+<br>
 
 Algumas iniciativas já saíram do papel e viraram realidade. Um exemplo foi o lançamento da [VTEX Community](https://community.vtex.com/) e a checklist para revisão de artigos. Também criamos um dashboard que cruza dados do Google Analytics e do Contentful para comparar artigos mais visitados com data da última atualização.
 
