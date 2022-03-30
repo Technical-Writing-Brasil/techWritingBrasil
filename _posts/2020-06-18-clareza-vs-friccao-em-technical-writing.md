@@ -15,7 +15,7 @@ Um dos livros que li nessa época - [Design for how people learn](https://www.am
 
 Algumas das maneiras pelas quais esse atrito pode ser criado, de acordo com o autor do livro, são:
 
-- Conte histórias..
+- Conte histórias.
 - Surpreenda o aluno.
 - Crie interação socialMostre ao aluno "coisas que brilham".
 - Faça o aluno explicar o assunto.
