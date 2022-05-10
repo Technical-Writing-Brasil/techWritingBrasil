@@ -29,30 +29,6 @@ Informações:
 
 ---
 
-# Meetup Tech Writing Brasil - Edição 2
-
-<br>
-
-<img class="eventSuggestion" src="/assets/images/meetup-twb2.jpeg">
-
-<br>
-
-A segunda edição do meetup da comunidade Tech Writing Brasil teve **André Sato** como convidado. Ele trabalha como Senior Technical Writer no Nubank.
-
-Temas:
-- Tipos de documentação
-- Processos e boas práticas
-- Ferramentas
-
-Informações:
-- **Quando**: 22/10/2020
-- **Horário**: 19h
-- **Plataforma**: Zoom
-
-<br>
-
----
-
 # Meetup Tech Writing Brasil - Edição 1
 
 <br>
