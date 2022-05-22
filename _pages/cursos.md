@@ -7,6 +7,26 @@ Cursos online e presenciais com conteúdo relevante para technical writers inici
 
 <br>
 
+# Trilhando sua Carreira em TW
+
+<br>
+
+<img class="eventSuggestion" src="/assets/images/curso-tctw.png">
+
+<br>
+
+Informações:
+- **Formato**: online
+- **Plataforma**: Hotmart
+- **Idioma**: Português
+- **Instrutor**: Mari Moreira
+
+<br>
+
+<a target="_blank" href="https://hotmart.com/pt-br/marketplace/produtos/cursotctw/R68083966J?sck=HOTMART_SITE&src=" class="btn btn-warning">Vá para o curso</a>
+
+<br>
+
 # Technical Writing I
 
 <br>
