@@ -8,6 +8,8 @@ image: assets/images/chatGpt.jpg
 
 No início de 2023* eu recebi a tarefa de documentar a [root de uma API GraphQL](https://graphql.org/learn/execution/#root-fields-resolvers). Não vou entrar em detalhes técnicos, mas, em resumo, era uma API com mais de 100 campos pra documentar, mas que não são explícitos organizados na camada GraphQL.
 
+_Esse texto foi publicado originalmente em junho de 2023 e migrado para este formato em dezembro de 2023._
+
 O primeiro passo foi pedir socorro ao time de desenvolvimento, que me mostrou como fuçar o código da API para descobrir o nome e o tipo dos campos. Uma vez que eu tinha essas informações estruturadas, era uma questão de criar descrições para todos os campos.
 
 Acontece que ao documentar APIs, a maior parte das informações nas descrições dos campos pode ser inferida dos nomes e tipos dos campos, dado que você tenha um mínimo de contexto do produto. A natureza contextual, tipificada e granular desse tipo de informação me fez pensar que seria uma boa oportunidade de usar inteligência artificial para agilizar o processo.
@@ -20,8 +22,7 @@ Abaixo eu vou resumir o funcionamento dessa ferramenta e mostrar como você pode
 - [Repositório no GitHub](https://github.com/PedroAntunesCosta/automatic-api-docs-tables)
 - [Input vs. output (exemplo)](https://github.com/PedroAntunesCosta/automatic-api-docs-tables/blob/main/EXAMPLE.md)
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+_A documentação resultante não está mais disponível publicamente devido à evolução do produto._
 
 ## Como funciona
 
@@ -55,8 +56,7 @@ var prompt = 'Please fill in the third column of the ' + docFormat + ' table bel
 
 Veja abaixo como configurar e usar essa ferramenta.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.Você não precisa saber programar, mas é necessário ter uma conta "pay as you go" da Open AI. Mais detalhes abaixo.
+_Você não precisa saber programar, mas é necessário ter uma conta "pay as you go" da Open AI. Mais detalhes abaixo._
 
 ## Configuração
 
@@ -91,8 +91,7 @@ Após obter sua chave de API da Open AI, siga estas etapas para configurar o scr
 
 Com estas configurações, você estará pronto para gerar suas tabelas.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.Saiba mais sobre [Google Apps Script](https://www.google.com/script/start/).
+_Saiba mais sobre [Google Apps Script](https://www.google.com/script/start/)._
 
 ## Exemplo de configuração
 
@@ -126,7 +125,4 @@ Para gerar as tabelas automáticas de documentação da sua API, siga estes pass
 6. Vá para o documento de saída.
 7. Copie as tabelas geradas e utilize-as no seu documento.
 
-> [!CAUTION]
-> A formatação das tabelas é “hard-coded”, mas elas passam pela API ChatGPT antes que o resultado esteja disponível, o que pode introduzir algumas inconsistências. Portanto, você deve verificar novamente a formatação das suas tabelas e revisar todas as descrições antes de publicar. Pelos testes que realizei até agora, parece improvável que o formato da tabela seja um problema, mas é muito provável que você precise editar uma pequena quantidade das descrições.
-
-* Esse texto foi publicado originalmente em junho de 2023 e migrado para este formato em dezembro de 2023.
+_ATENÇÃO! A formatação das tabelas é “hard-coded”, mas elas passam pela API ChatGPT antes que o resultado esteja disponível, o que pode introduzir algumas inconsistências. Portanto, você deve verificar novamente a formatação das suas tabelas e revisar todas as descrições antes de publicar. Pelos testes que realizei até agora, parece improvável que o formato da tabela seja um problema, mas é muito provável que você precise editar uma pequena quantidade das descrições._
