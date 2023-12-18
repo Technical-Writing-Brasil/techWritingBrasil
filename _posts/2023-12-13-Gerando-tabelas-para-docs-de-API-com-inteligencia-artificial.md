@@ -20,7 +20,8 @@ Abaixo eu vou resumir o funcionamento dessa ferramenta e mostrar como você pode
 - [Repositório no GitHub](https://github.com/PedroAntunesCosta/automatic-api-docs-tables)
 - [Input vs. output (exemplo)](https://github.com/PedroAntunesCosta/automatic-api-docs-tables/blob/main/EXAMPLE.md)
 
-> A documentação resultante não está mais disponível publicamente devido à evolução do produto.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 ## Como funciona
 
@@ -54,7 +55,8 @@ var prompt = 'Please fill in the third column of the ' + docFormat + ' table bel
 
 Veja abaixo como configurar e usar essa ferramenta.
 
-> Você não precisa saber programar, mas é necessário ter uma conta "pay as you go" da Open AI. Mais detalhes abaixo.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.Você não precisa saber programar, mas é necessário ter uma conta "pay as you go" da Open AI. Mais detalhes abaixo.
 
 ## Configuração
 
@@ -89,7 +91,8 @@ Após obter sua chave de API da Open AI, siga estas etapas para configurar o scr
 
 Com estas configurações, você estará pronto para gerar suas tabelas.
 
-> Saiba mais sobre [Google Apps Script](https://www.google.com/script/start/).
+> [!NOTE]
+> Useful information that users should know, even when skimming content.Saiba mais sobre [Google Apps Script](https://www.google.com/script/start/).
 
 ## Exemplo de configuração
 
@@ -123,6 +126,7 @@ Para gerar as tabelas automáticas de documentação da sua API, siga estes pass
 6. Vá para o documento de saída.
 7. Copie as tabelas geradas e utilize-as no seu documento.
 
-> ATENÇÃO! A formatação das tabelas é “hard-coded”, mas elas passam pela API ChatGPT antes que o resultado esteja disponível, o que pode introduzir algumas inconsistências. Portanto, você deve verificar novamente a formatação das suas tabelas e revisar todas as descrições antes de publicar. Pelos testes que realizei até agora, parece improvável que o formato da tabela seja um problema, mas é muito provável que você precise editar uma pequena quantidade das descrições.
+> [!CAUTION]
+> A formatação das tabelas é “hard-coded”, mas elas passam pela API ChatGPT antes que o resultado esteja disponível, o que pode introduzir algumas inconsistências. Portanto, você deve verificar novamente a formatação das suas tabelas e revisar todas as descrições antes de publicar. Pelos testes que realizei até agora, parece improvável que o formato da tabela seja um problema, mas é muito provável que você precise editar uma pequena quantidade das descrições.
 
 * Esse texto foi publicado originalmente em junho de 2023 e migrado para este formato em dezembro de 2023.
